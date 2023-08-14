@@ -1,0 +1,759 @@
+- Id: Recon 1
+  Code: SAE07HK.89
+  QID: 6049
+
+  Question: >
+    <speak>
+      What kind of preoperative diagnosis increases the risk of sciatic nerve injury in primary total hip arthroplasty (<say-as interpret-as="characters">THA</say-as>)?
+    </speak>
+
+  MultipleChoice:
+    Correct: Developmental dysplasia of the hip
+    Incorrect:
+      - Male gender
+      - Anterolateral approach
+      - Posterior superior quadrant acetabular screw placement
+      - Osteonecrosis
+
+  CorrectAnswers:
+    - DDH
+  IncorrectAnswers:
+    - Scoliosis
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Injury to the sciatic nerve is a relatively rare but serious complication of THA. Dissection of the sciatic nerve is not typically done during primary THA, although the nerve can be identified during the surgical approach. An anterolateral approach to THA would not necessarily be associated with any greater incidence of sciatic nerve injury than other approaches. Screw fixation for the acetabular component is often a matter of surgeon preference. Provided that the anatomic safe zones for screw fixation (posterior inferior and posterior superior) are recognized, injury to the sciatic nerve from acetabular screws can be minimized. Restoration of anatomic length is important in primary THA. Overlengthening can result in sciatic nerve palsy. Developmental dysplasia of the hip can lead to a congenitally shortened extremity with concomitant congenital shortening of the associated neurovascular structures. Overlengthening of the extremity during THA for developmental dysplasia of the hip can lead to sciatic palsy. Osteonecrosis is not an associated risk factor for sciatic nerve palsy.
+
+- Id: Recon 2
+  Code: SAE13SM.55
+  QID: 8614
+
+  Question: >
+    While obtaining informed consent for a lateral closing-wedge tibial osteotomy, what complication should be discussed with the patient as exclusive to this procedure and not encountered in medial opening-wedge tibial osteotomy?
+
+  MultipleChoice:
+    Correct: Proximal tibiofibular joint disruption
+    Incorrect:
+      - Compartment syndrome
+      - Plate breakage
+      - Neurologic injury
+
+  Explanation: >
+    With lateral closing-wedge osteotomy, proximal tibiofibular disruption can occur. This is not seen in medial opening-wedge osteotomy. A technique has been developed to prevent this complication; a fibular osteotomy is performed at the same time as the tibial osteotomy. The other complications listed are seen in both techniques, with nonunion and plate breakage more common in opening-wedge high tibial osteotomy (HTO) and neurologic injury more common in closing-wedge HTO (with issues related to the common peroneal nerve most prevalent). Compartment syndrome is a devastating complication that can occur with any osteotomy, and a high index of suspicion should be maintained during the postsurgical course for patients who develop this condition.
+
+- Id: Recon 3
+  Code: SAE07HK.97
+  QID: 6057
+
+  Question: >
+    What is the primary mechanism of polyethylene wear in the hip?
+
+  MultipleChoice:
+    Correct: Adhesion and abrasion
+    Incorrect:
+      - Fatigue cracking and delamination
+      - Oscillatory fretting
+      - Crevice corrosion
+      - Oxidative degradation
+
+  Explanation: >
+    Although previous theories on acetabular wear implicated fatigue cracking and delamination as primary wear mechanisms, these have actually manifested as major modes of polyethylene wear in knees. The primary mechanism of wear in polyethylene acetabular components appears to be adhesion and abrasion. In an analysis of 128 components retrieved at autopsy or revision surgery, wear appeared to occur mostly at the surface of the components and was the result of large strain plastic deformation and orientation of the surface layers into fibrils that subsequently ruptured during multidirectional motion. It was also shown conclusively that 32-mm heads displayed significantly more wear (volumetric wear) than either 22-mm or 26-/28-mm heads (1-mm increase in size increased volumetric wear by 10%). The wear at the articulating surface was characterized by highly worn polished areas superiorly and less worn areas inferiorly separated by a ridge. Abrasion was very common, occurring after adhesion and plastic deformation of polyethylene fibrils, and abrasion secondary to third-body wear. Wear rates decreased with longer survival of components, indicating a “bedding in” phenomenon, arguing against oxidative and fatigue wear. Crevice corrosion occurs in fatigue cracks with low oxygen tension (under screw heads, etc). Oscillatory fretting consists of cyclical abrading of the outer surface from small movements. Fatigue and delamination is predominant in total knee arthroplasty where stresses are maximum just below the surface of the polyethylene component, causing fatigue over time with subsequent delamination. In contrast, hip wear occurs primarily at the surface of the polyethylene component.
+
+- Id: Recon 4
+  Code: SAE10BS.80
+  QID: 7168
+
+  Question: >
+    What is the most probable cause of the osteolysis?
+    The radiographs of a cemented total knee arthroplasty show substantial amounts of osteolysis underneath the tibial baseplate. There is no evidence of excessive wear of the superior surface of the polyethylene. The patient has had no previous implants, and the prosthesis has no intramedullary stem. 
+    What is the most probable cause of the osteolysis?
+
+  MultipleChoice:
+    Correct: Polyethylene fretting wear debris from the backside of the insert
+    Incorrect:
+      - Stress shielding caused by the implant, leading to bone resorption
+      - Polyethylene wear debris from the tibiofemoral surface articulation
+      - Metal wear debris from the tibiofemoral surface articulation
+      - Cement debris from the cement-bone fixation surfaces
+
+  Explanation: >
+    A number of studies have shown that in some designs of total knee implants, micromotion and fretting between the backside of the polyethylene insert and the tibial tray can generate significant amounts of wear debris, sufficient to cause substantial osteolysis. Stress shielding is not a likely cause in this case because there is no intramedullary stem. In general, articulation of metal against polyethylene generates insignificant amounts of metal wear debris.
+
+- Id: Recon 5
+  Code: SAE10BS.79
+  QID: 8318
+
+  Question: >
+    Particulate wear debris is central to the mechanisms responsible for aseptic loosening.  The severity of the biologic response to particulate polyethylene wear debris is directly proportional to particle:
+
+  MultipleChoice:
+    Correct: number
+    Incorrect:
+      - size
+      - composition
+      - molecular weight
+
+  Explanation: >
+    The biologic response to polyethylene is highly dependent on the type and quantity of particles. The response is clearly dose-dependent. Multiple cytokines are involved in the biologic response to wear particles, and tumor necrosis factor alpha seems to be among the most important. Its secretion increases during the biologic response to particulate wear debris. Research has shown that particles sized between 0.2 µm and 7-8 µm are the most stimulatory, but a direct proportional correlation does not exist with sizes outside of this range. A lack of correlation also applies to molecular weight and composition of polyethylene debris.
+
+- Id: Recon 6
+  Code: SAE07HK.91
+  QID: 6051
+
+  Question: >
+    The figure shows the preoperative radiograph of a 45-year-old woman considering total hip arthroplasty with her orthopaedic surgeon.
+    What femoral characteristic is a typical concern in this patient?
+
+  Figures:
+    - 6051_A.jpg
+
+  MultipleChoice:
+    Correct: Excessive anteversion
+    Incorrect:
+      - Osteopenia
+      - Excessive varus
+      - Excessive bowing
+      - Stove-pipe femur
+
+  CorrectAnswers:
+    - femoral anteversion
+  IncorrectAnswers: []
+
+  Keywords: [[anteversion]]
+  KeywordsOnly: false
+
+  Explanation: >
+    Developmental dysplasia of the hip (DDH) leads to early arthritis of the hip as seen in this patient. Although DDH is believed to mostly affect the acetabulum, most patients with DDH also have anatomic aberrations of the femur. Using three-dimensional computer models generated by reconstruction of CT scans, dysplastic femurs were shown to have shorter necks and smaller, straighter canals than the controls. The shape of the canal became more abnormal with increasing subluxation. The studies also have shown that the primary deformity of the dysplastic femur is rotational, with an increase in anteversion of 5 degrees to 16 degrees, depending on the degree of subluxation of the hip. The rotational deformity of the dysplastic femur arises within the diaphysis between the lesser trochanter and the isthmus and is not attributable to a torsional deformity of the metaphysis. Osteopenia is not a concern in a patient with an excellent cortical index (thick cortices and narrow canal). Femoral varus or bowing of the femur is not a typical finding in patients with DDH.
+
+- Id: Recon 7
+  Code: SAE13BS.82
+  QID: 8322
+
+  Question: >
+    Several techniques have been developed to improve the wear characteristics of polyethylene.  What technique results in the largest reduction of free radicals?
+
+  MultipleChoice:
+    Correct: Thermal stabilization through remelting
+    Incorrect:
+      - Thermal stabilization through annealing
+      - Stabilizing the polyethylene with vitamin C
+      - Gamma irradiation with 10 Mrads in nitrogen
+
+  CorrectAnswers:
+    - remelting
+  IncorrectAnswers: []
+
+  Keywords: [[remelt, remelting]]
+  KeywordsOnly: false
+
+  Explanation: >
+    Free radicals, which are generated when polyethylene is exposed to ionizing radiation, are highly reactive and can be quenched by cross-linking with each other or via oxidation in the presence of oxygen. Thermal stabilization techniques are designed to minimize the number of remaining free radicals available to react with oxygen. Remelting is the most efficient method to reduce free radicals. Annealing also greatly reduces the number of free radicals, but cannot quench as many free radicals as remelting. Vitamin E has been shown to protect against oxidation by quenching free radicals; however, vitamin C has not shown the same benefit. Gamma irradiation with 10 Mrads will generate many free radicals regardless of the presence or absence of oxygen.
+
+- Id: Recon 8
+  Code: SAE13BS.25
+  QID: 8259
+
+  Question: >
+    What process has the most positive effect on the wear-resistance characteristics of UHMWPE?
+
+  MultipleChoice:
+    Correct: Radiation
+    Incorrect:
+      - Ethylene oxide
+      - Remelting
+      - Annealing
+
+  CorrectAnswers:
+    - gamma irradiation
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    UHMWPE is a long polyethylene polymer with a high molecular weight. It is manufactured via ram bar extrusion and compression molding. Radiation is used to sterilize and cross-link. Historically, gamma was irradiated in air at 2.5-4.0 Mrad. This created free radicals, resulting in early oxidative degradation with high wear rates, delamination, and fracture. Modern UHMWPE is highly cross-linked with higher doses of radiation (5.0-10 Mrad) in an inert environment. The level of radiation directly increases the amount of cross-linking and also improves wear resistance via cross-linking. Free radicals are still generated during the radiation process and are quenched by either remelting or annealing. Remelting is the heating of the polyethylene above its melt point, changing it from the partial crystalline state to the amorphous state and removing all free radicals, but also reducing wear characteristics. In annealing, the UHMWPE is heated below the melting point, which avoids the reduction in crystallinity but leaves more free radicals. Ethylene oxide is used in the sterilization process. Highly cross-linked polyethylene has shown significantly decreased wear rates compared to conventional polyethylene in both clinical and simulator studies. There is still some concern regarding decreased mechanical properties.
+
+- Id: Recon 9
+  Code: SAE13BS.70
+  QID: 8309
+
+  Question: >
+    How are free radicals removed from highly cross-linked polyethylene?
+
+  MultipleChoice:
+    Correct: Thermal processing
+    Incorrect:
+      - Oxidation
+      - High-dose irradiation
+      - Low-dose irradiation
+
+  Explanation: >
+    Cross-linking of polyethylene improves its wear property via a series of steps including irradiation, thermal processing, and sterilization.  Irradiation breaks carbon-hydrogen bonds in polyethylene and creates covalent bonds during cross-linking.  Both low- and high-dose irradiation create free radicals that can interact with oxygen to weaken the polyethylene.  Oxidation is the process through which oxygen is introduced into the polyethylene and possibly generates free radicals.  Thermal processing of irradiated polyethylene removes these free radicals.  Thermal processing is the heat treatment of cross-linked polyethylene to remove free radicals.  Annealing and remelting are 2 thermal processing types, with annealing being the preferred technique because it results in better mechanical properties of polyethylene.  Another strategy that can remove free radicals is to add an antioxidant such as vitamin E.  Sterilization is the final step before the packaging of polyethylene implants.
+
+- Id: Recon 10
+  Code: SAE10HK.57
+  QID: 7045
+
+  Question: >
+    What mechanical properties are observed in polyethylene used for total knee arthroplasty after the material undergoes oxidation?
+
+  MultipleChoice:
+    Correct: Increased elastic modulus and decreased strength
+    Incorrect:
+      - Increased elastic modulus and increased ductility
+      - Decreased elastic modulus and decreased strength
+      - Decreased strength and increased ductility
+      - Decreased elastic modulus and decreased ductility
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    When polyethylene undergoes oxidation, the material undergoes a decrease in strength and ductility, and an increase in the elastic modulus. This makes the material more brittle, and leaves it vulnerable to delamination, fracture, and pitting.
+
+- Id: Recon 11
+  Code: SAE07HK.60
+  QID: 6020
+
+  Question: >
+    When polyethylene is exposed to radiation and subsequently heated, certain physical properties change in the material. Please describe these changes.
+
+  MultipleChoice:
+    Correct: The process lowers the wear rate but may increase the risk of fracture
+    Incorrect:
+      - The process converts an otherwise interpenetrating networking structure of polymer chains into a linear, high molecular weight polyethylene macromolecule
+      - The process increases the ductility of the material
+      - The process leads to fewer particles that are larger in size than the untreated material
+      - The process decreases the wear rate of the material, compared to untreated polyethylene, when tested against a rough counterface
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - cross-linking
+    - removal of radicals
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Exposure of polyethylene to radiation and then heating it to quench the free radicals leads to a cross-linked material. It converts a high molecular weight polyethylene macromolecule to an interpenetrating network structure of polymer chains. The ductility of the material is decreased, hence the greater risk of fracture. While the wear rate (measured as fewer and smaller particles) against a smooth counterface is markedly reduced, cross-linked polyethylene has shown a larger increase in wear rate when a rougher counterface is used compared to noncross-linked material. Due to reduced mechanical strength, highly cross-linked polyethylene is less resistant to abrasive wear.
+
+- Id: Recon 12
+  Code: SAE10HK.61
+  QID: 7049
+
+  Question: >
+    What is the most appropriate treatment at this time? 
+    A 73-year-old woman with a history of type II diabetes mellitus undergoes a total hip arthroplasty for osteoarthritis.  She continues to have serosanguinous wound drainage from the midportion of the incision 12 days after surgery.  
+    What is the most appropriate treatment at this time?
+
+  MultipleChoice:
+    Correct: Return to the operating room for open debridement and irrigation, exchange of the polyethylene insert, followed by appropriate antibiotics based on intraoperative culture results
+    Incorrect:
+      - Hip spica pressure dressing and a 2-week course of oral antibiotics
+      - Return to the operating room for debridement and irrigation with removal of all implants and immediate reimplantation
+      - Hip aspiration for culture, followed by a 2-week course of appropriate IV antibiotics based on culture results
+      - Hip aspiration for culture, followed by a 6-week course of appropriate IV antibiotics based on culture results
+
+  CorrectAnswers:
+    - I and D, exchange polyethylene insert, followed by IV antibiotics
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    This patient has an acute postoperative deep infection, with prolonged drainage at 12 days postoperatively.  Even without other signs or symptoms of infection, the prolonged drainage this far out after surgery is concerning for an acute postoperative infection.  The most appropriate treatment at this point is open debridement with retention of the implants.  Modular parts, if present, are exchanged.  Oral or IV antibiotics alone are generally inadequate to treat the infection, and this form of management alone would result in a missed opportunity to potentially cure the infection.  Removal of all implants at this point is not required because early aggressive debridement within the first 2 weeks after surgery offers a reasonable outcome.  After 4 to 6 weeks of symptoms, results of debridement are less favorable and removal of the implants is usually required.
+
+- Id: Recon 13
+  Code: SAE10HK.70
+  QID: 7058
+
+  Question: >
+    <speak>
+    What is the most appropriate action at this point? 
+    A 71-year-old woman has a failed revision hip arthroplasty and is undergoing a re-revision hip arthroplasty.  Her last hip surgery was 4 years ago with revision of the acetabular component.  Radiographs show a well-fixed extensively porous-coated femoral component and a failed acetabular component with proximal and medial migration through the floor of the acetabulum.  Preoperative laboratory studies reveal an erythrocyte sedimentation rate (ESR) of 70 mm/h <sub alias="">(normal is 0-29 mm/h)</sub>, <sub alias="">a</sub> C-reactive protein (CRP) of 23.3 <sub alias="">(normal is 0.2-8.0)</sub>, and a negative hip aspiration. At the time of surgery, tissues look inflamed, and a frozen section shows 20 WBC per high power field; however, a Gram stain is negative.
+    What is the most appropriate action at this point?
+    </speak>
+
+  MultipleChoice:
+    Correct: Obtain cultures, remove the implants, and insert an antibiotic spacer
+    Incorrect:
+      - Proceed with the revision as planned
+      - Obtain cultures and proceed with revision of the acetabulum only
+      - Obtain cultures and proceed with revision of the femur only
+      - Obtain cultures and close
+
+  Explanation: >
+    Despite the negative aspiration preoperatively, intraoperative findings are suspicious for infection. Additionally, the preoperative blood work is also concerning for infection with an elevated CRP and ESR. The frozen section is also positive. Most important is the unreliability of the Gram stain. Numerous investigators have show high false negative rates for Gram stain in chronic periprosthetic infection. The Gram stain should not be relied on for decision-making in revision surgery, particularly when other investigations point to infection. With the information available, the diagnosis is deep infection. The best course of action is to obtain cultures, remove the implants, and insert an antibiotic spacer. Only obtaining cultures and closing would require a second operation to remove the implants if the cultures are positive.
+
+- Id: Recon 14
+  Code: SAE13HK.74
+  QID: 8413
+
+  Question: >
+    Early postoperative infections following primary total hip arthroplasty are most likely caused by what organism?
+
+  MultipleChoice:
+    Correct: Staphylococcus aureus
+    Incorrect:
+      - Staphylococcus epidermidis
+      - Streptococcus viridans
+      - Propionibacterium acnes
+
+  Explanation: >
+    Staphylococcus aureus is the most common organism cultured in early (fewer than 4 weeks postoperative) periprosthetic infections. Methicillin-resistant Staphylococcus aureus is becoming a more common pathogen in certain patient populations. B-hemolytic Streptococcus and some gram-negative infections can also be found in early postoperative infections. Staphylococcus epidermidis, Streptococcus viridans, and Propionibacterium acnes are more commonly found in late (> 4 weeks postoperative) infections.
+
+- Id: Recon 15
+  Code: SAE10HK.41
+  QID: 7029
+
+  Question: >
+    Patients with hip dysplasia have a series of anatomic abnormalities that most commonly include what abnormality?
+
+  MultipleChoice:
+    Correct: Excessive femoral neck anteversion and a posterior greater trochanter
+    Incorrect:
+      - Decreased neck-shaft angle
+      - Large femoral head with long femoral neck
+      - Large contact area between the femoral head and acetabulum
+      - Shallow, medialized acetabulum that is deficient anteriorly and superiorly
+
+  CorrectAnswers:
+    - shallow acetabulum
+    - excessive femoral neck anteversion
+    - increased neck shaft angle
+    - coxa valgus
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Patients with developmental dysplasia of the hip share a common pattern of anatomic abnormalities including an acetabulum that is shallow, lateralized, anteverted, and deficient anteriorly and superiorly. On the femoral side, the head is usually small, the neck is short and anteverted with a posteriorly placed trochanter, and the femoral canal is small. The neck-shaft angle is typically increased. The contact area of the femoral head and acetabulum is typically decreased.
+
+- Id: Recon 16
+  Code: SAE13HK.70
+  QID: 8409
+
+  Question: >
+    What is the most appropriate treatment?
+    A healthy, active 68-year-old woman had a total hip arthroplasty 3 months ago. She has been to the emergency department with a posterior dislocation 3 times during the last 2 months. Plain radiographs and a CT scan confirm that the acetabular component is oriented in 5 degrees of retroversion and 55 degrees of abduction. 
+    What is the most appropriate treatment?
+
+  MultipleChoice:
+    Correct: Acetabular component revision
+    Incorrect:
+      - Revision of the femoral and acetabular components
+      - Maximizing head-neck ratio and increasing head length
+      - Closed reduction with an abduction brace and reinforcement of hip precautions
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Acetabular malposition can lead to recurrent instability. When this cause is confirmed, reorientation of the component can lead to successful revision surgery. Revision of the femoral component may not be necessary if the acetabular component is repositioned. Increasing length and maximizing head-neck ratio cannot make up for component malposition. There is no role for nonsurgical treatment in the setting of recurrent instability with component malposition in an active, healthy patient.
+
+- Id: Recon 17
+  Code: SAE13HK.43
+  QID: 8379
+
+  Question: >
+    What is the most appropriate management of this condition from this point forward?
+    A 59-year-old active woman underwent elective total hip replacement using a posterior approach.  She had minimal pain and was discharged to home 2 days after surgery.  Four weeks later she dislocated her hip while shaving her legs.  She underwent a closed reduction in the emergency department.  Postreduction radiographs show a reduced hip with well-fixed components in satisfactory alignment.  
+    What is the most appropriate management of this condition from this point forward?
+
+  MultipleChoice:
+    Correct: Observation and patient education regarding hip dislocation precautions
+    Incorrect:
+      - Revision to a larger-diameter femoral head
+      - Revision to a constrained acetabular component
+      - Application of a hip orthosis for 3 months
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - hip brace
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    First-time early dislocations are often successfully treated without revision surgery, especially when there is no component malalignment.  In this clinical scenario, it appears the patient would benefit from better education about dislocation precautions.  Hip orthoses are of questionable benefit unless the patient is cognitively impaired.  Revision surgery can be successful, but is usually reserved for patients with recurrent dislocations.
+
+- Id: Recon 18
+  Code: SAE13HK.92
+  QID: 8433
+
+  Question: >
+    What is the most appropriate treatment?
+    A 68-year-old woman underwent an uncemented medial/lateral tapered femoral placement during a total hip arthroplasty. The orthopaedic surgeon noticed a nondisplaced vertical fracture in the calcar region of the femoral neck with final implant insertion. 
+    What is the most appropriate treatment?
+
+  MultipleChoice:
+    Correct: Removal of the implant, placement of a cerclage cable around the femoral neck above the lesser trochanter, and reinsertion of the implant
+    Incorrect:
+      - Removal of the press-fit implant and cementing of the same femoral stem
+      - Removal of the uncemented femoral component and placement of a revision modular taper-fluted femoral stem
+      - Final seating of the uncemented femoral component without additional measures
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - follow up in clinic
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The recognized treatment for a proximal periprosthetic fracture is to first identify the extent and then optimize the correction.  Several studies indicate that proximal cerclage wiring is adequate to create "barrel hoop" stability of the proximal femur.  Braided cables offer superior stability compared to twisted wires or Luque wires.  Finally, the appropriate postoperative treatment is protected weight bearing for 6 weeks, with periodic radiographs taken at 2-week intervals.  Other options such as cementing the femoral stem and using a revision arthroplasty device are indicated for unstable fractures.
+
+- Id: Recon 19
+  Code: SAE07HK.49
+  QID: 6009
+
+  Question: >
+    What is the highest level of activity that would be safely permitted in the immediate postoperative period?
+    The figure shows the postoperative radiograph of a 36-year-old patient.  The cerclage cable was placed for a minimal medial calcar fracture seen during femoral preparation.  
+    What is the highest level of activity that would be safely permitted in the immediate postoperative period?
+
+  Figures:
+    - 6009_A.jpg
+
+  MultipleChoice:
+    Correct: Immediate full weight bearing
+    Incorrect:
+      - Protected weight bearing
+      - Toe touch weight bearing
+      - Non-weight-bearing
+      - 50% weight bearing
+
+  CorrectAnswers:
+    - weight bearing as tolerated
+    - ambulate without restrictions
+  IncorrectAnswers:
+    - partial weight bearing
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The incidence of femoral fracture in primary cementless total hip arthroplasty ranges from 1.5% to 27.8%. It is imperative that the implant and fracture are stable both intraoperatively and postoperatively. Cerclage wiring or cerclage cabling is the current recommended treatment for nondisplaced calcar fractures and minimally displaced proximal fractures. Berend and associates reviewed the results of 58 total hips in 55 patients with intraoperative calcar fracture managed with single or multiple cerclage wires or cables and immediate full weight bearing. Follow-up averaged 7.5 years, and there were no revisions of the femoral component. No patients had severe thigh pain.
+
+- Id: Recon 20
+  Code: SAE08OS.41
+  QID: 6403
+
+  Question: >
+    What is a potential cause for the problem?
+    A medial parapatellar approach is used to perform a total knee arthroplasty, including patellar resurfacing. The patient now reports anterior knee pain with stair climbing and rising from a chair. Radiographs show lateral subluxation of the patella on the Merchant view. 
+    What is a potential cause for the problem?
+
+  MultipleChoice:
+    Correct: Internal rotation of the femoral component
+    Incorrect:
+      - Lateral placement of the tibial component
+      - Decreased composite thickness of the resurfaced patellar component
+      - Posterior translation of the femoral component
+      - External rotation of the tibial component
+
+  CorrectAnswers:
+    - internal rotation of tibial component
+    - increased patellofemoral space
+    - increased composite thickness of the patella
+    - anterior translation of femoral component
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Lateral subluxation of the patella following total knee arthroplasty has several possible causes, including internal rotation of the femoral component, internal rotation of the tibial component, and increasing the patellofemoral space (either increasing the composite thickness of the patella or anterior translation of the femoral component). Increasing the patellofemoral space leads to increased tension on the lateral patellofemoral retinaculum when a medial parapatellar approach is used. Increased tension in the lateral soft-tissue tether can cause lateral subluxation. Placement of the femoral and tibial components to the most lateral aspect of the cut surfaces helps to ensure the tibial tubercle is medialized appropriately to avoid lateral subluxation of the patellar component.
+
+- Id: Recon 21
+  Code: SAE10HK.68
+  QID: 7056
+
+  Question: >
+    What does implant position at the time of primary total knee arthroplasty to optimize patellar tracking include?
+
+  MultipleChoice:
+    Correct: External rotation of the femoral and tibial components
+    Incorrect:
+      - Internal rotation of the femoral component and external rotation of the tibial component
+      - Internal rotation of the femoral and tibial components
+      - Medialization of the femoral component
+      - Lateralization of the patellar component
+
+  CorrectAnswers:
+    - medialize patellar component
+    - medialization of patellar component
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Component rotation is a critical factor to optimizing patellar tracking at the time of primary and revision total knee arthroplasty.  Both the femoral and tibial components should be externally rotated whereas the patellar components should be medialized.
+
+- Id: Recon 22
+  Code: SAE07HK.58
+  QID: 6018
+
+  Question: >
+    The figure shows the AP radiograph of a patient who underwent a previous upper tibial osteotomy (UTO). 
+    During total knee arthroplasty (TKA), the patient may be at risk for what problem?
+
+  Figures:
+    - 6018_A.jpg
+
+  MultipleChoice:
+    Correct: Instability
+    Incorrect:
+      - Fracture
+      - Myositis ossificans
+      - Patella alta
+      - Bone loss
+
+  CorrectAnswers:
+    - rupture of ligaments
+  IncorrectAnswers:
+    - component malposition
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The results of TKA for patients with a prior UTO are reported to be slightly suboptimal. The major problems are patella baja, difficulty in exposure, and instability. Most of the patients exhibit some degree of instability prior to TKA, and ligamentous balancing may be difficult. Ligamentous structures are at risk of rupture during the difficult exposure. The problem of ligamentous balancing is exacerbated by the change in the joint slope that can occur after UTO.
+
+- Id: Recon 23
+  Code: SAE07HK.13
+  QID: 5973
+
+  Question: >
+    A 60-year-old patient had the procedure shown in the figure performed 5 years ago.  When converting this patient to a total knee arthroplasty (TKA), what patellar problem is commonly encountered intraoperatively?
+
+  Figures:
+    - 5973_A.jpg
+
+  MultipleChoice:
+    Correct: Patella baja
+    Incorrect:
+      - Fracture
+      - Patella alta
+      - Osteonecrosis
+      - Maltracking
+
+  CorrectAnswers:
+    - patella infera
+    - low lying patella
+    - patella position abnormally low
+    - patella too low
+  IncorrectAnswers:
+    - patellar instability
+    - patella high riding
+    - patella position abnormally high
+    - patella too high
+    - patella maltracking
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Patella baja is commonly encountered when converting a high tibial osteotomy (HTO) to a TKA.  Patella baja most likely occurs because of scarring.  Meding and associates’ study did not show an increased rate of lateral release when converting a knee that had undergone a previous HTO.
+
+- Id: Recon 24
+  Code: SAE07HK.1
+  QID: 5961
+
+  Question: >
+    For the most predictable outcome, what implant should be used?
+    A patient is scheduled to undergo total knee arthroplasty (TKA) following failure of nonsurgical management. History reveals that she underwent a patellectomy as a teenager as the result of a motor vehicle accident. Examination reveals normal ligamentous stability. 
+    For the most predictable outcome, what implant should be used?
+
+  MultipleChoice:
+    Correct: Posterior cruciate ligament-substituting knee
+    Incorrect:
+      - Mobile-bearing knee
+      - Posterior cruciate ligament-sparing knee
+      - Semiconstrained-style knee
+      - Triaxial hinged knee
+
+  CorrectAnswers:
+    - PS knee
+    - posterior stabilized knee
+  IncorrectAnswers:
+    - anterior stabilized
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Paletta and Laskins performed a retrospective study of the results of TKA with cement in 22 patients who had a previous patellectomy. Nine of the patients had insertion of a posterior cruciate ligament-substituting implant. Thirteen patients had insertion of a posterior cruciate ligament-sparing implant. The 5-year postoperative knee scores were 89 for the posterior cruciate ligament-substituting knee versus 67 for the posterior cruciate ligament-sparing knee (P < 0.01). The patella functions to increase the lever arm of the extensor mechanism and to position the quadriceps tendon and the patellar ligament roughly parallel to the anterior cruciate ligament and posterior cruciate ligament, respectively. The patellar ligament thereby provides a strong reinforcing structure that functions to prevent excessive anterior translation of the femur during flexion of the knee. The absence of the patella results in the patellar ligament and the quadriceps tendon being relatively in line with one another. After a patellectomy, the resultant quadriceps force is no longer parallel to the posterior cruciate ligament. This results in loss of the reinforcing function of the patellar ligament. The authors believe this loss of reinforcing function may place increased stresses on the posterior cruciate ligament and posterior aspect of the capsule, which may result in stretching of these structures over time. They found a high rate of anteroposterior instability, a high prevalence of recurvatum, and a high rate of loss of full active extension compared with passive extension in the posterior cruciate ligament-sparing group, which supports their theory.
+
+- Id: Recon 25
+  Code: SAE07HK.63
+  QID: 6023
+
+  Question: >
+    A patient with a documented allergy to nickel requires a total knee arthroplasty.  What prosthesis is most likely to provide long-term success in this individual?
+
+  MultipleChoice:
+    Correct: Modular titanium tibial component and oxidized zirconium femoral component
+    Incorrect:
+      - All-polyethylene tibial component and pure titanium femoral component
+      - All-polyethylene tibial component and cobalt-chromium alloy femoral component
+      - Cobalt-chromium alloy tibial component and cobalt-chromium alloy femoral component
+      - Modular titanium tibial component and pure titanium femoral component
+
+  CorrectAnswers:
+    - titanium tibial tray and zirconium femoral component
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Nickel allergy is not an infrequent preoperative finding. The ramifications of such allergies in arthroplasty patients are poorly understood at this time. Stainless steel and cobalt-chromium alloys contain relatively high concentrations of nickel. Titanium, oxidized zirconium, and polyethylene do not contain significant amounts of nickel. Titanium is not a good surface for the articulating portion of the femoral component because of its propensity for metallosis. Oxidized zirconium is the only suitable femoral component for patients allergic to nickel. A modular titanium tibial component or an all-polyethylene tibial component would be satisfactory for these patients.
+
+- Id: Recon 26
+  Code: SAE10HK.29
+  QID: 7017
+
+  Question: >
+    Increasing tibial polyethylene conformity can have what effect on fixed bearing total knee arthroplasty?
+
+  MultipleChoice:
+    Correct: Decreased femoral rollback during flexion
+    Incorrect:
+      - Increased contact stress within the polyethylene
+      - Increased risk of polyethylene delamination
+      - Decreased mechanical forces transferred to the fixation surfaces
+      - Increased femoral rotation during flexion
+
+  CorrectAnswers:
+    - less risk of polyethylene wear
+    - less risk of polyethylene fracture
+    - less risk of polyethylene delamination
+    - increased shear stress to fixation surfaces of the implants
+    - less femoral rollback
+  IncorrectAnswers:
+    - more femoral rollback
+    - increased risk of polyethylene wear
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Increasing conformity between the tibial polyethylene bearing and the femoral component has desirable and undesirable consequences. Increased conformity increases the contact area and thereby reduces contact stress within the polyethylene. This can lead to less risk of polyethylene wear, fracture, and delamination. However, increasing conformity also limits the ability of the femur to roll back during flexion, and may transfer increased shear stress to the fixation surfaces of the implants.
+
+- Id: Recon 27
+  Code: SAE07HK.18
+  QID: 5978
+
+  Question: >
+    Patients with patellar clunk syndrome are best managed by what method?
+
+  MultipleChoice:
+    Correct: Surgical debridement
+    Incorrect:
+      - Rest and nonsteroidal anti-inflammatory drugs
+      - Patellectomy
+      - Patellar revision
+      - Lateral release/patellar realignment
+
+  CorrectAnswers:
+    - debridement of the cyclops lesion
+    - arthroscopic debridement
+    - open debridement
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Patellar clunk syndrome is usually the result of a fibrous nodule that forms on the undersurface of the distal quadriceps tendon.  It may get entrapped in the intercondylar notch of the femoral component during flexion, and lead to a sudden snap as the nodule is pulled out of the notch during active extension.  Nonsurgical management is rarely successful.  Surgical debridement is usually curative, with only rare recurrence.  More aggressive procedures such as realignment, revision, or patellectomy are usually not necessary, and are reserved for cases resistant to soft-tissue debridement.
+
+- Id: Recon 28
+  Code: SAE10HK.69
+  QID: 7057
+
+  Question: >
+    The placement of supplemental screw fixation with acetabular component fixation is a typical adjunct measure but carries the greatest risk of vascular injury if placed in which position?
+
+  MultipleChoice:
+    Correct: Anterior superior
+    Incorrect:
+      - Superior
+      - Posterior superior
+      - Posterior inferior
+      - Superior lateral
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Anatomic studies indicate that the safe areas for screws are superior and posterior.  The external illiac artery is at risk with anteromedial placement, and the sciatic nerve may be compromised by posterior inferior screw placement.
+
+- Id: Recon 29
+  Code: SAE10HK.1
+  QID: 6989
+
+  Question: >
+    What should the patient's postoperative physical therapy regimen include?
+    During the course of a revision total knee arthroplasty via a medial parapatellar exposure, the surgeon does a complete intra-articular release and synovectomy but exposure is still inadequate. A quadriceps snip is performed and, at the end of the procedure, the knee is stable throughout a range of motion, and the postoperative radiographs show acceptable alignment of the components.
+    What should the patient's postoperative physical therapy regimen include?
+
+  MultipleChoice:
+    Correct: No restriction in range of motion or weight bearing after surgery.
+    Incorrect:
+      - Limit flexion to 30 degrees postoperatively, progressing 10 degrees per week
+      - Limit flexion to 90 degrees for the first 6 weeks postoperatively
+      - Limit to active flexion only with no passive flexion or active extension for 6 weeks
+      - Use of a hinged knee brace for 6 weeks postoperatively
+
+  CorrectAnswers:
+    - no restriction
+    - full weight bearing as tolerated
+  IncorrectAnswers:
+    - partial weight bearing
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    A quadriceps snip is performed by extending a medial parapatellar approach superiorly and laterally across the quadriceps tendon.  It is then repaired primarily at the end of the procedure.  The primary advantage of this technique over other surgical maneuvers that improve exposure at the time of revision total knee arthroplasty is that the postoperative regimen for physical therapy does not need to be altered.
+
+- Id: Recon 30
+  Code: SAE10HK.40
+  QID: 7028
+
+  Question: >
+    What is the definition of the term "paradoxical motion," used to describe knee kinematics?
+
+  MultipleChoice:
+    Correct: The tibiofemoral contact point moves anteriorly during knee flexion
+    Incorrect:
+      - The patella does not roll forward into the trochlear groove during knee extension
+      - The tibia rolls back on the femur during knee extension
+      - The posterior cruciate ligament rolls posteriorly with respect to the anterior cruciate ligament during knee extension
+      - The femur rolls back on the tibia during knee flexion
+
+  CorrectAnswers:
+    - the femur rolls forward on the tibia during knee flexion
+    - the femur rolls anteriorly on the tibia during knee flexion
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The term "rollback" describes the posterior movement of the tibiofemoral contact point with knee motion from extension to flexion. Therefore, with "paradoxical rollback" this contact point moves anteriorly. "Paradoxical rollback" is a term used to connote the inability of the anterior cruciate-deficient, posterior cruciate-retaining total knee prosthesis to create normal posterior femoral rollback with knee flexion.

@@ -1,0 +1,71 @@
+@import "~antd/lib/style/themes/default.less";
+@import "~antd/dist/antd.less";
+
+.chat-bubble {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  margin-bottom: 2vh;
+  max-width: 75%;
+}
+
+.sail-chat-bubble {
+  .chat-bubble;
+  border: 1.5px solid #f0f2f5;
+}
+
+.user-chat-bubble {
+  .chat-bubble;
+  background-color: #f0f2f5;
+  float: right;
+}
+
+.sail-image {
+  max-width: 25vw;
+  max-height: 30vh;
+  margin: 0 0.75em 0.75em 0;
+}
+
+.chat-screen {
+  height: 85vh;
+  overflow: auto;
+  background-color: white;
+  padding: 5vh;
+}
+
+@media screen and (max-width: 600px) {
+  .chat-bubble {
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .sail-chat-bubble {
+    .chat-bubble;
+  }
+
+  .sail-image {
+    max-width: 100%;
+    max-height: auto;
+  }
+
+  .chat-screen {
+    height: 85vh;
+    padding: 2vh;
+  }
+}
+
+@media screen and (max-height: 700px) {
+  .chat-screen {
+    height: 75vh;
+  }
+}
+
+
+@media screen and (max-height: 500px) {
+  .chat-screen {
+    height: 60vh;
+  }
+}

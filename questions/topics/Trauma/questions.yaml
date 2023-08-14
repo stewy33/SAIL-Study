@@ -1,0 +1,862 @@
+- Id: Trauma 1
+  Code: SAE12FA.35
+  QID: 8056
+
+  Question: >
+    <speak>
+    What is the most appropriate treatment for the following case?
+    An 18-year-old man sustained a traumatic laceration of the common peroneal nerve when glass fell on the outer part of his leg 1 year ago.  He has used a molded foot and ankle orthosis for the past 10 months, but would now like surgical intervention.  Electromyography shows no function in the anterior or lateral compartments. He has <sub alias="five out of five">5/5</sub> muscle strength of the superficial and deep posterior compartments.
+    What is the most appropriate treatment for this case?
+    </speak>
+
+  MultipleChoice:
+    Correct: Split posterior tibial tendon transfer
+    Incorrect:
+      - Gastrocsoleus recession
+      - Subtalar fusion
+      - Split anterior tibial tendon transfer
+      - Flexor hallucis longus tendon transfer
+
+  CorrectAnswers:
+    - Posterior tibial tendon split transfer
+    - split tendon transfer of the posterior tibialis tendon
+    - posterior tibial tendon transfer
+  IncorrectAnswers:
+    - Anterior tibial tendon transfer
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    In a patient with a drop foot and with 5/5 muscle strength of the posterior tibial tendon, a split posterior tibial tendon transfer would be the most appropriate treatment option based on the options presented. The deep peroneal nerve innervates the anterior tibial tendon. This muscle has been affected by the injury; therefore, the anterior tibial tendon cannot be transferred. A subtalar fusion would help correct inversion and eversion deformities, but is not effective for plantar flexion deformities. The foot drop is caused by a neurologic condition in this patient, not a contracture of the gastrocsoleus complex. Therefore, a recession would not be beneficial. A flexor hallucis longus tendon transfer would not take the deforming force and make it a corrective force.
+
+  Done: true
+
+- Id: Trauma 2
+  Code: SAE12FA.69
+  QID: 8091
+
+  Question: >
+    Compared with standard damp-to-dry dressing changes, use of a negative pressure dressing offers what advantage?
+    A 35-year-old man sustains a large degloving injury overlying the distal tibia. The traumatic wound is managed with surgical debridement, followed by application of a negative pressure dressing.
+    Compared with standard damp-to-dry dressing changes, use of a negative pressure dressing offers what advantage?
+
+  MultipleChoice:
+    Correct: Accelerated granulation tissue formation
+    Incorrect:
+      - Increased limb vascularity
+      - Decreased hospital stay
+      - Decreased bacterial count
+      - Decreased need for repeat debridement
+
+  CorrectAnswers:
+    - improves local vascularity
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The development of negative pressure dressings has been a significant advance in wound management. These devices remove excess interstitial fluid, which promotes increased local vascularity and, with mechanical deformation of cells from the negative pressure, accelerates granulation tissue formation. A negative pressure dressing does not substitute for thorough surgical debridement; it has not been shown to decrease bacterial counts within the wound or decrease overall length of hospital stays.
+
+  Done: true
+
+- Id: Trauma 3
+  Code: SAE12TR.52
+  QID: 8189
+
+  Question: >
+    What is the most common complication following surgery for a "terrible triad" elbow fracture-dislocation?
+
+  CorrectAnswers: ["elbow stiffness", "elbow contracture"]
+  IncorrectAnswers:
+    - messed up elbow
+
+  MultipleChoice:
+    Correct: Restricted range of elbow motion
+    Incorrect:
+      - Arthritis
+      - Infection
+      - Re-dislocation
+      - Posterior interosseous nerve (PIN) palsy
+
+  Explanation: >
+    Recurrent instability, PIN palsy, infection, and posttraumatic arthritis have all been reported following these injuries; however, elbow contracture or loss of motion is nearly universal following these injuries.
+
+  Done: true
+
+- Id: Trauma 4
+  Code: SAE11OS.63
+  QID: 7651
+
+  Question: >
+    What is the best course of treatment for the following case?
+    A 10-year-old girl is seen in the emergency department after being involved in a motor vehicle accident. She has right hip pain and is unable to bear weight. She has no neurovascular deficits and no other injuries. Radiographs reveal a posterior dislocation of the right hip without apparent fracture. The acetabulum appears to be developing normally.
+    What is the best course of treatment for this case?
+
+  MultipleChoice:
+    Correct: Closed reduction under general anesthesia with fluoroscopy
+    Incorrect:
+      - Open reduction under general anesthesia
+      - Closed reduction under general anesthesia without fluoroscopy
+      - Conscious sedation in the emergency department and closed reduction with fluoroscopy
+      - Conscious sedation in the emergency department and closed reduction without fluoroscopy
+
+  CorrectAnswers:
+    - closed reduction in the OR
+  IncorrectAnswers:
+    - closed reduction
+    - closed reduction without fluoroscopy
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Hip dislocation in the pediatric population is a rare event. However, prompt recognition and rapid care for this injury is imperative to avoid future hip problems including osteonecrosis of the femoral head (a devastating problem for a pediatric patient). Reduction maneuvers can create violent impact between the posterior wall of the (intact) acetabulum and the femoral head, resulting in shearing of the proximal femoral physis and displacement of the epiphysis from the remainder of the femoral head in skeletally immature patients. Therefore, deep sedation with good muscle relaxation, such as that achieved with general anesthetic, is recommended. Reduction is best accomplished with fluoroscopy for a number of reasons, including assessment of concentricity of the hip joint after reduction, and to detect any catastrophic femoral head physeal separation that occurs during the reduction maneuver. Sedation in the emergency department is often insufficient to achieve acceptable muscle relaxation for the patient. Open reduction is only indicated if closed reduction fails completely or if the hip is not concentric after an apparently successful closed reduction.
+
+  Done: true
+
+- Id: Trauma 5
+  Code: SAE12FA.77
+  QID: 8099
+
+  Question: >
+    Following surgery for an ankle fracture, what is considered the most important factor in achieving a satisfactory outcome?
+
+  MultipleChoice:
+    Correct: Anatomic alignment
+    Incorrect:
+      - Physical therapy
+      - Early weight bearing
+      - Early range of motion of the ankle
+      - Calcium and vitamin D administration
+
+  CorrectAnswers:
+    - anatomic reduction
+    - proper alignment
+  IncorrectAnswers: []
+
+  Keywords:
+    [[anatomic, perfect, perfectly, proper, properly, anatomical, anatomically]]
+  KeywordsOnly: false
+
+  Explanation: >
+    The only factor that is prognostic for outcomes is the quality of the reduction. Early range of motion or physical therapy may offer temporary effects, but these small advantages do not last beyond 3 months after surgery.
+
+- Id: Trauma 6
+  Code: SAE12TR.86
+  QID: 8226
+
+  Question: >
+    What is the best way to determine whether a radial head implant is too thick intraoperatively?
+
+  MultipleChoice:
+    Correct: Visually assess widening of the lateral ulnohumeral joint.
+    Incorrect:
+      - Visually assess the radiocapitellar joint.
+      - Assess widening of the radiocapitellar joint on an AP radiograph.
+      - Assess the elbow for concentric reduction on a lateral radiograph.
+      - Assess widening of the medial ulnohumeral joint on an AP radiograph.
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - visually assess widening of medial ulnohumeral joint
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Widening of the medial ulnohumeral joint on an AP radiograph is only visible after overlengthening of the radial head by 6 mm or more.
+    At least in this cadaver study, the most sensitive method was to visually assess the lateral aspect of the ulnohumeral joint with the radial head resected and then with the trial radial head in place.
+    This method allows detection of any overlengthening.
+
+- Id: Trauma 7
+  Code: SAE11OS.24
+  QID: 7612
+
+  Question: >
+    <speak>
+    What additional studies (if any) should be performed to minimize the risk of having an undiagnosed femoral neck fracture?
+    A 20-year-old unrestrained driver sustained a midshaft femur fracture in a high-speed motor vehicle accident. The femoral neck was evaluated with a CT scan with <sub alias="two millimeter">2-mm</sub> cuts through the hip; no fracture was identified.
+    What additional studies (if any) should be performed to minimize the risk of having an undiagnosed femoral neck fracture?
+    </speak>
+
+  MultipleChoice:
+    Correct: Intraoperative fluoroscopic images of the femoral neck
+    Incorrect:
+      - Postoperative MRI scan
+      - Postoperative bone scan
+      - Preoperative AP pelvic radiograph
+      - No additional imaging studies are needed
+  CorrectAnswers:
+    - intraoperative fluoroscopic examination
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Nondisplaced femoral neck fractures may occur concurrently with high-energy injuries of the femur.
+    Preferably, these are identified prior to or during surgery so that the fracture can be stabilized to prevent displacement and minimize the risk of osteonecrosis.
+    However, the diagnosis of these injuries can be difficult.
+    Tornetta and associates reported on standardized protocol that involved preoperative radiographs and CT scans with fine cuts through the femoral head.
+    This protocol improved the detection of femoral neck fractures compared with situations with no set protocol.
+    Of the 16 fractures detected, 13 were identified preoperatively.
+    Of the three fractures that were missed by the screening, one was iatrogenic, one of these was detected at the time of surgery with intraoperative internal/external views of the femoral neck, and one had a late displacement.
+    The overall rate of nondisplaced femoral neck fractures in this study was 7.5%, of which 91% were treated at the time of initial surgery having been identified on preoperative and/or intraoperative radiographs.
+    Care must be taken not to neglect careful scrutiny of the femoral neck at the time of surgery even if preoperative imaging studies do not detect a fracture. No one method has been shown to have a 100% success rate.
+    Postoperative bone scans and MRI scans are not routinely used.
+
+- Id: Trauma 8
+  Code: SAE10BS.67
+  QID: 7155
+
+  Question: >
+    Glenohumeral disarticulation often leads to what change?
+
+  MultipleChoice:
+    Correct: Hiking of the shoulder girdle
+    Incorrect:
+      - Hypertrophy of the amputated shoulder girdle
+      - Improvement in thoracic spinal deformity
+      - Protraction of the shoulder
+      - Winging of the scapula
+
+  CorrectAnswers:
+    - abnormal shoulder elevation
+    - high riding shoulder girdle
+  IncorrectAnswers:
+    - low riding shoulder girdle
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Postural abnormalities are common after high upper extremity amputation. Normally the weight of the upper extremity and the shoulder girdle muscles keep the shoulder balanced. When the arm is amputated and the scapula remains, the shoulder girdle muscles are unopposed, resulting in upward movement often called "hiking" of the shoulder girdle. In a growing child, removal of the entire upper limb can result in scoliosis of the spine due to muscle imbalance. Abnormal shoulder elevation can often be minimized by corrective exercises and wearing a shoulder prosthesis.
+
+- Id: Trauma 9
+  Code: SAE08UE.73
+  QID: 6635
+
+  Question: >
+    What kind of structure may help maintain radial length after a radial head fracture?
+
+  MultipleChoice:
+    Correct: Triangular fibrocartilage complex
+    Incorrect:
+      - Medial ulnar collateral ligament
+      - Lateral ulnar collateral ligament
+      - Annular ligament
+      - Coronoid
+
+  CorrectAnswers:
+    - TFCC
+    - IOM
+    - interosseus membrane
+    - DRUJ
+    - distal radial and ulnar joint
+    - interosseus membrane and DRUJ
+  IncorrectAnswers: []
+
+  Keywords:
+    [
+      [
+        "interosseous membrane",
+        "IOM",
+        "TFCC",
+        "DRUJ",
+        "Triangular fibrocartilage complex",
+      ],
+    ]
+  KeywordsOnly: false
+
+  Explanation: >
+    Essex-Lopresti injuries affect axial stability of the forearm. Injury to the interosseous membrane or the triangular fibrocartilage complex can result in proximal migration of the radius.
+
+- Id: Trauma 10
+  Code: SAE09FA.55
+  QID: 6743
+
+  Question: >
+    What is the most appropriate management for this case?
+    A 32-year-old laborer reports left ankle pain and deformity. History reveals that he sustained a left ankle fracture 2 years ago and was treated with closed reduction and casting. Radiographs are shown.
+    What is the most appropriate management for this case?
+
+  Figures:
+    - 6743_A.jpg
+    - 6743_B.jpg
+    - 6743_C.jpg
+
+  MultipleChoice:
+    Correct: Corrective osteotomy of the fibula and medial malleolus with reconstruction of the syndesmosis if unstable
+    Incorrect:
+      - Bracing and physical therapy
+      - Intra-articular injection of steroids into the ankle joint, bracing, and physical therapy
+      - Intra-articular injection of hyaluronic acid product into the ankle joint, bracing, and physical therapy
+      - Ankle fusion
+
+  Explanation: >
+    Corrective osteotomy of fibular malunions, with appropriate lengthening, even in the presence of early arthritis, has been shown to decrease ankle pain and increase stability. Reduction and bone grafting of the medial malleolar nonunion is also needed. There is no evidence supporting the use of intra-articular steroids or hyaluronic acid in the ankle joint. Lateral talar displacement of even 1 mm has been reproducibly shown to decrease tibiotalar contact by 40% to 42%, causing a predisposition to arthritis.
+
+- Id: Trauma 11
+  Code: SAE09FA.66
+  QID: 6754
+
+  Question: >
+    What should treatment consist of? 
+    A 24-year-old woman was struck by a mini van in a parking lot and sustained a closed segmental tibia fracture that was treated with an intramedullary nail the following morning.  Follow-up examinations reveal a slowly progressive clawing of all five toes, a progressive equinocavovarus contracture, and the patient is unable to perform a single heel rise on the affected limb.  At 1 year after surgery, the patient now has a 10-degree equinus contracture that is not relieved with knee flexion. 
+    What should treatment consist of?
+
+  MultipleChoice:
+    Correct: posterior capsule release, Achilles tendon lengthening, and excision of the scarred muscle and tendon in the leg and foot
+    Incorrect:
+      - physical therapy and bracing
+      - reassurance that these problems will resolve with time
+      - Achilles tendon lengthening, and flexor digitorum longus and flexor hallucis longus tenotomies at the individual digits with transfer of the posterior tibial tendon to the dorsum of the foot
+      - flexor digitorum longus and flexor hallucis longus tenotomies at the individual digits with midfoot capsular release and hallux interphalangeal fusion
+
+  Explanation: >
+    This is an example of a missed deep posterior compartment syndrome that typically presents 6 months after the injury with progressive clawing due to necrosis, scarring, and contracture of the posterior tibial tendon, flexor digitorum longus, and flexor hallucis longus. Treatment consists of debridement of necrotic muscle and scar tissue with corresponding tendon excision. After debridement and posterior capsule release, if the equinus is relieved with knee flexion, a gastrocnemius slide may be performed. Otherwise, the lengthening should be at the level of the Achilles tendon. Bracing will not address the claw toes.
+
+- Id: Trauma 12
+  Code: SAE09TR.90
+  QID: 6978
+
+  Question: >
+    <speak>
+    What is the optimal management for this injury?
+    A 14-year-old boy sustains a right leg injury after being thrown from his motorcycle while racing. He reports diffuse right leg pain starting at his knee and proceeding distally to include his foot.  After the injury, the patient’s mother reports the tibia moving posteriorly, then anteriorly while she was supporting the leg.  In the emergency department 4 hours after injury, examination reveals a large knee effusion, firm compartments of the leg, a palpable posterior tibialis pulse with a warm, pink foot, and capillary refill of 2 seconds at the toes.  His blood pressure is <sub alias="one hundred over fifty">100/50 mm Hg</sub>.  Motor examination is intact, but there is decreased sensation in the dorsal first interspace and plantar aspect of the foot.  Compartment pressure measurement reveals all four compartments with pressures of 33, 36, 33, and 38 <sub alias="millimeters of mercury">mm Hg</sub> respectively.  Radiographs are shown in the figures.  The remainder of the skeletal examination is normal.  
+    What is the optimal management for this injury?
+    </speak>
+
+  Figures:
+    - 6978_A.jpg
+    - 6978_B.jpg
+
+  MultipleChoice:
+    Correct: Emergent four compartment fasciotomies and open reduction and internal fixation of the fracture
+    Incorrect:
+      - Emergent four compartment fasciotomies
+      - Elevation of the limb overnight and four compartment fasciotomies in the morning
+      - Elevation of the limb overnight and a recheck of compartment pressures in the morning
+      - Emergent MRI of the knee and leg
+
+  CorrectAnswers:
+    - leg fasciotomy and ORIF
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The patient has a compartment syndrome based on the firm compartments of the leg and the elevated compartment pressures measured at the diastolic pressure reading. Muscle ischemia occurs quickly when compartment pressures are elevated, and within 6 hours irreversible damage can occur. Emergent fasciotomies permit decompression of all four compartments and reestablishment of vascular supply to the muscles. Stabilization of the fracture prevents further soft-tissue injury.
+
+- Id: Trauma 13
+  Code: SAE09FA.96
+  QID: 6784
+
+  Question: >
+    What is the most appropriate antibiotic prophylaxis?
+    A farmer is seen in the emergency department after falling out of a hay loft onto the barn floor below. He is unable to bear weight. Exploration of a 0.5 cm laceration over the anterior tibia reveals bone. Radiographs reveal oblique displaced midshaft tibial and fibular fractures.  
+    What is the most appropriate antibiotic prophylaxis?
+
+  MultipleChoice:
+    Correct: Cephalosporin, aminoglycoside, and penicillin
+    Incorrect:
+      - Cephalosporin
+      - Cephalosporin and aminoglycoside
+      - Cephalosporin and penicillin
+      - Cephalosporin and vancomyacin
+
+  CorrectAnswers:
+    - Ancef, gentamicin, and penicillin
+    - Ancef, gentamicin, penicillin
+  IncorrectAnswers: []
+
+  Keywords:
+    [
+      [penicillin],
+      [cephalosporin, ancef, cefazolin],
+      [aminoglycoside, gentamicin],
+    ]
+  KeywordsOnly: false
+
+  Explanation: >
+    A farm injury is automatically considered a grade III (Gustillo classification) injury regardless of size, energy, or additional soft-tissue injury due to the likelihood of substantial contamination. Antibiotic recommendations for grade III injuries include a first- or second-generation cephalosporin with an aminoglycoside or fluoroquinolone within 3 hours of injury, with penicillin added for farm injuries.
+
+- Id: Trauma 14
+  Code: SAE12TR.71
+  QID: 8210
+
+  Question: >
+    A previously healthy man who weighs 70 kg (154 lb) sustains an acute blood loss of 2 liters after a motorcycle crash.  
+    What about physiologic parameters is unique to this amount of blood loss?
+
+  MultipleChoice:
+    Correct: Systolic blood pressure will be decreased with a narrowed pulse pressure
+    Incorrect:
+      - Pulse pressure will be widened
+      - Urine output will be at the lower limits of normal
+      - Tachycardia will be present, but with no change in systolic blood pressure
+      - Systolic blood pressure will be maintained with an elevated diastolic blood pressure
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: [[pulse pressure]]
+  KeywordsOnly: false
+
+  Explanation: >
+    The normal adult blood volume is approximately 7% of body weight. For example, a man weighing 70 kg has a circulating blood volume of approximately 5 liters. A blood loss of 2 liters places the patient in a class IV hemorrhage of more than 40% blood volume loss. Signs and symptoms of class IV hemorrhage include marked tachycardia of greater than 140 bpm, a significant decrease in blood pressure, and a very narrow pulse pressure. Urinary output is negligible, and mental status is markedly depressed. The skin is cold and pale. Physiologic parameters associated with a class II hemorrhage include: urine output that is at the lower limits of normal; the presence of tachycardia but with no change in the systolic blood pressure; and maintenance of the systolic blood pressure with an elevated diastolic blood pressure. A widened pulse pressure correlates with a class I hemorrhage.
+
+- Id: Trauma 15
+  Code: SAE12TR.14
+  QID: 8147
+
+  Question: >
+    Which inflammatory marker is most closely tied to a systemic inflammatory response following orthopaedic injury and treatment?
+
+  MultipleChoice:
+    Correct: Interleukin 6
+    Incorrect:
+      - Interleukin 1 (IL-1)
+      - Interleukin 10 (IL-10)
+      - Interleukin-5
+      - Interleukin 4
+      - Interleukin-8
+      - Interleukin 7
+      - Tumor necrosis factor, alpha
+      - D-dimer
+
+  CorrectAnswers:
+    - IL 6
+    - IL-6
+    - interleukin-6
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Significant basic science research has been done on identifying inflammatory markers associated with systemic inflammatory response following trauma and musculoskeletal injury. Although not yet clinically applicable, IL-6 has been identified as a marker that correlates well with musculoskeletal injury (ie, femur fracture) and treatment of these injuries (ie, intramedullary nailing). IL-1 and IL-10 do not correlate with treatment of musculoskeletal injury. Tumor necrosis factor, alpha and D-dimer, although often elevated following trauma, do not correlate with musculoskeletal treatment.
+
+- Id: Trauma 16
+  Code: SAE09TR.12
+  QID: 6900
+
+  Question: >
+    What is most commonly associated with an open clavicular fracture?
+
+  MultipleChoice:
+    Correct: Closed head injury
+    Incorrect:
+      - Scapulothoracic dissociation
+      - Calcaneus fracture
+      - Pelvic ring injury
+      - Open tibial fracture
+
+  CorrectAnswers:
+    - pulmonary injuries
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Open clavicular fractures are rare and result from high-energy trauma. In a series of 20 patients with open clavicular fractures, 13 (65%) sustained a closed head injury. Fifteen (75%) had associated pulmonary injuries and 35% had a cervical or thoracic spine fracture. Only one demonstrated scapulothoracic dissociation. Screening for pulmonary and closed head injuries should be considered in the setting of traumatic open clavicular fractures.
+
+- Id: Trauma 17
+  Code: SAE08UE.2
+  QID: 6564
+
+  Question: >
+    What is the most likely reason that this patient has failed to improve her motion?
+    A 66-year-old woman who previously underwent hemiarthroplasty 2 years ago for a fracture continues to have severe pain and loss of motion despite undergoing physical therapy. A radiograph is shown in the figure.
+    What is the most likely reason that this patient has failed to improve her motion?
+
+  Figures:
+    - 6564_A.jpg
+
+  MultipleChoice:
+    Correct: The tuberosities are malpositioned
+    Incorrect:
+      - She was noncompliant in physical therapy
+      - The original surgery should have included resurfacing the glenoid
+      - The humeral head was too large
+      - The humeral component was placed too proud
+
+  CorrectAnswers:
+    - the tuberosities are misplaced
+    - the tuberosities are malunited
+    - the tuberosities are poorly positioned
+    - the tuberosities are displaced
+    - non-anatomic reduction of the greater tuberosity
+    - non-anatomic reduction of the tuberosities
+  IncorrectAnswers: []
+
+  Keywords: [[tuberosity, tuberosities]]
+  KeywordsOnly: false
+
+  Explanation: >
+    The radiograph shows tuberosity malposition.  The effect of improper prosthetic placement has also been associated with poor outcomes.  However, the malposition of the tuberosity seen on the radiograph  clearly explains loss of motion in this patient.  It has been demonstrated that the functional results after hemiarthroplasty for three- and four-part proximal humeral fractures appear to be directly associated with tuberosity osteosynthesis.  The most significant factor associated with poor and unsatisfactory postoperative functional results was malposition and/or migration of the tuberosities.  Factors associated with a failure of tuberosity osteosynthesis in a recent study were poor initial position of the prosthesis, poor position of the greater tuberosity, and women older than age 75 years (most likely with osteopenic bone).  Greater tuberosity displacement has been identified by Tanner and Cofield as being the most common complication after prosthetic arthroplasty for proximal humeral fractures.  Furthermore, Bigliani and associates examined the causes of failure after prosthetic replacement for proximal humeral fractures and found that although almost all failed cases had multiple causes, the most common single identifiable reason was greater tuberosity displacement.
+
+- Id: Trauma 18
+  Code: SAE08OS.72
+  QID: 6434
+
+  Question: >
+    Compared with surgically treated patients, patients with extra-articular distal third humeral shaft fractures that are treated nonsurgically with functional bracing can be expected to show what finding?
+
+  MultipleChoice:
+    Correct: Similar loss of elbow motion
+    Incorrect:
+      - Greater loss of elbow extension
+      - Higher rate of varus malalignment
+      - Higher rate of functionally limiting malalignment
+      - Significantly better shoulder motion
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - elbow stiffness
+    - elbow contracture
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    In a retrospective review of patients with extra-articular distal humeral shaft fractures treated surgically versus nonsurgically, the authors found that the amount of motion loss was not different between the treatment groups.  Of 21 patients in the nonsurgical group, one lost 20 degrees of extension, one lost 30 degrees of extension, and one patient lost 15 degrees of flexion.  Of the 19 patients in the surgical group, two patients lost 5 degrees of extension, and one each lost 10, 15, and 20 degrees of extension, respectively.  One patient lost 5 degrees of flexion and one lost 15 degrees of flexion.  The average loss of motion in the surgical group was 3 degrees, compared with 6 degrees in the nonsurgical group, but this difference was not significant.  One hundred percent of the nonsurgically treated fractures healed.  Both groups of patients regained shoulder motion within 10 degrees of normal.  In the nonsurgically treated group, 10 healed with less than 10 degrees of malalignment, 6 healed with 11 to 20 degrees of malalignment, and three healed with greater than 30 degrees of malalignment, but the authors did not report any functional problems due to these deformities.
+
+- Id: Trauma 19
+  Code: SAE08OS.50
+  QID: 6412
+
+  Question: >
+    What finding is most consistent with a first-degree injury (neurapraxia)?
+    During a lateral approach to repair a distal one third humeral shaft fracture, the radial nerve is found within the fracture site. The nerve is noted to be grossly in continuity and is carefully extracted. Radial nerve function is absent clinically in the postoperative period. Six weeks after surgery, a nerve velocity conduction study and electromyogram are obtained. 
+    What finding is most consistent with a first-degree injury (neurapraxia)?
+
+  MultipleChoice:
+    Correct: Normal amplitude and conduction velocity in the radial sensory nerve of the forearm
+    Incorrect:
+      - Normal sensory conduction in the lateral antebrachial cutaneous nerve
+      - Normal insertion activity in the flexor carpi ulnaris muscle
+      - Fibrillations in the extensor digitorum communis muscle
+      - Strong motor unit action potentials in the triceps muscle
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - decreased amplitude and conduction velocity
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    A neurapraxic, or first-degree, nerve injury is a lesion in which there is a focal conduction block within the nerve. There is no loss of continuity of the nerve fiber or axon sheath, and Wallerian degeneration is not observed. The end-organs served by the injured nerve (muscle end-plates or sensory endings) do not develop the atrophic changes typical of a more severe nerve injury. While conduction across the focus of the nerve injury is inhibited, conduction is observed within the nerve both proximal and distal to the lesion. The lateral antebrachial cutaneous nerve is not part of the radial nerve, and the flexor carpi ulnaris muscle is not innervated by the radial nerve. The triceps is innervated by the radial nerve proximal to the area of the nerve injury, so action potentials in the triceps are not helpful in assessing distal radial nerve function. Fibrillations in the extensor digitorum communis, which is innervated by the posterior interosseous nerve (which is a branch of the distal portion of the radial nerves), are indicative of more severe nerve injury (grade 2 or 3).
+
+- Id: Trauma 20
+  Code: SAE11UE.49
+  QID: 7837
+
+  Question: >
+    What is the most common complication associated with the exposure method shown in the figure?
+
+  Figures:
+    - 7837_A.jpg
+
+  MultipleChoice:
+    Correct: Symptomatic hardware
+    Incorrect:
+      - Ulnar nerve injury
+      - Lateral instability
+      - Medial instability
+      - Nonunion
+
+  Explanation: >
+    Olecranon osteotomy provides excellent exposure of the articular surface of the distal humerus, and allows for direct visualization of the entirety of the distal humerus.  Complications associated with this exposure include infection, nonunion, hardware failure, symptomatic hardware, and improperly placed hardware, limiting forearm rotation.  Recent studies have shown a nonunion rate of 0% to 2%; the lack of overlying soft tissue makes symptomatic hardware common, with rates from 8% to 33%.  Additionally, olecranon fixation is often removed at the time of other subsequent procedures performed on the elbow.  Olecranon osteotomy does not destabilize the collateral ligaments of the elbow.
+
+- Id: Trauma 21
+  Code: SAE08OS.130
+  QID: 6492
+
+  Question: >
+    The essential lesion in recurrent or persistent instability following simple dislocation of the elbow typically involves which structure?
+
+  MultipleChoice:
+    Correct: Lateral ulnar collateral ligament
+    Incorrect:
+      - Medial collateral ligament
+      - Coracohumeral ligament
+      - Anterior joint capsule
+      - Posterior joint capsule
+
+  CorrectAnswers:
+    - LUCL
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The lateral ulnar collateral ligament is the essential lesion in recurrent or persistent instability following simple dislocations of the elbow.  Simple elbow dislocations are usually stable and may be managed by a short period of immobilization followed by early range of motion.  Treatment of dislocations resulting in persistent instability frequently involves focusing on the lateral ulnar collateral ligament.  The medial collateral ligament is repaired only if treatment of associated fractures and lateral collateral ligament injury does not restore stability.
+
+- Id: Trauma 22
+  Code: SAE09TR.62
+  QID: 6950
+
+  Question: >
+    What is the most appropriate management?
+    A 24-year-old woman fell from a horse and landed on her outstretched right arm.  Radiographs reveal an elbow dislocation with a type II coronoid fracture and a nonreconstructable comminuted radial head fracture.  
+    What is the most appropriate management?
+
+  MultipleChoice:
+    Correct: Radial head arthroplasty, open reduction and internal fixation of the coronoid, and lateral collateral ligament repair
+    Incorrect:
+      - Radial head resection, open reduction and internal fixation of the coronoid, and medial collateral ligament repair
+      - Radial head resection and lateral collateral ligament repair
+      - Radial head arthroplasty alone
+      - Radial head arthroplasty and lateral collateral ligament repair
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - open reduction and internal fixation, radial head resection, lateral collateral ligament repair
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The combination of an elbow dislocation and a fracture of the radial head and coronoid is known as a terrible triad injury. To restore elbow stability, each injury must be addressed. The nonreconstructable radial head fracture requires implant arthroplasty. Open reduction and internal fixation of the coronoid is also necessary as is repair of the lateral collateral ligament complex which is usually avulsed from the lateral epicondyle region.
+
+- Id: Trauma 23
+  Code: SAE11OS.37
+  QID: 7625
+
+  Question: >
+    The variability of the DASH (disabilities of the arm, shoulder, and hand questionnaire) score reported by patients after nonsurgical management of a distal radius fracture has been shown to be affected by what factor?
+
+  MultipleChoice:
+    Correct: Depression
+    Incorrect:
+      - Neuroticism
+      - Pain-escaping behavior
+      - Occupation
+      - Handedness
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: [[depression, pain anxiety]]
+  KeywordsOnly: false
+
+  Explanation: >
+    Wide variability has been seen by Ring and associates in the DASH scores for patients treated for carpal tunnel syndrome, unilateral de Quervain tendinitis, trigger finger, unilateral lateral elbow pain, or nonsurgical distal radius fractures. The authors hypothesized that the large variation in DASH scores could not be accounted for by physical factors and perhaps could be explained by illness behavior. They found that neuroticism did not correlate with the DASH score but depression and pain anxiety did. The study found a correlation between depression and all the upper extremity conditions looked at in the study. Neuroticism was found not to correlate with the DASH score, pain-escaping behavior is not measurable, and occupation and handedness have not been found to be associated with variations in the DASH score.
+
+- Id: Trauma 24
+  Code: SAE12TR.61
+  QID: 8199
+
+  Question: >
+    <speak>
+    What is the most appropriate management of her pelvic ring injury?
+    The figure is the radiograph of a 34-year-old woman, who was involved in a rollover motor vehicle accident.  
+    On arrival at the trauma center, she is hypotensive and tachycardic, and an abdominal CT scan reveals a spleen laceration.  
+    The patient remains hypotensive despite resuscitation, and she is taken to surgery for an emergent laparotomy and splenectomy.  
+    After surgery, her delta base is <sub alias="negative nine millimolar">-9 mmol/L</sub>.
+    What is the most appropriate management of her pelvic ring injury?
+    </speak>
+
+  Figures:
+    - 8199_A.jpg
+
+  MultipleChoice:
+    Correct: Application of skeletal traction
+    Incorrect:
+      - Application of a pelvic binder
+      - Open reduction and internal fixation
+      - Placement of percutaneous iliosacral screws
+      - Placement of an anterior pelvic external fixator
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The patient has a displaced iliac wing and bilateral rami fractures with superior migration of the right hip. To prevent further deformity, the patient's right hip should be placed into skeletal traction. A pelvic binder may worsen the deformity because of the iliac wing fracture. Anterior external fixation is problematic with an iliac wing fracture. Although the patient will eventually require open reduction and internal fixation and/or placement of iliosacral screws, she must be stabilized and resuscitated prior to this treatment.
+
+- Id: Trauma 25
+  Code: SAE12TR.20
+  QID: 8154
+
+  Question: >
+    The figures are the radiographs of a 19-year-old woman who was involved in a motor vehicle accident.  What mechanism of injury is most consistent with the injury?
+
+  Figures:
+    - 8154_A.jpg
+    - 8154_B.jpg
+
+  MultipleChoice:
+    Correct: Lateral compression
+    Incorrect:
+      - Vertical shear
+      - External rotation
+      - Sagittal translation
+      - Anterior posterior compression
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The radiographs show a lateral compression pelvic ring injury with a displaced superior ramus fracture, or tilt fracture.  Tilt fractures are most commonly caused by a lateral compression mechanism.  These injuries are often seen in female patients and careful examination, including vaginal examination, is required to rule out open fractures.  Lateral compression results in internal rotation, not external rotation, of the pelvic ring.  Tilt fractures are not commonly seen with anterior-posterior compression injuries or vertical shear injuries.  Sagittal translation is not a term used to describe pelvic ring injuries.
+
+- Id: Trauma 26
+  Code: SAE12TR.92
+  QID: 8233
+
+  Question: >
+    The figure is the radiograph of a 45-year-old man who was thrown from his horse and now reports groin pain.  What is the most common long-term sequelae of this injury?
+
+  Figures:
+    - 8233_A.jpg
+
+  MultipleChoice:
+    Correct: Sexual dysfunction
+    Incorrect:
+      - Gait abnormality
+      - Chronic low back pain
+      - Quadriceps weakness
+      - Posttraumatic osteoarthritis
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - normal sexual function
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The radiograph reveals an anterior posterior compression injury to the pelvic ring which is commonly seen after horseback riding injuries. In a large series of patients with this type of injury, 18 of 20 patients had sexual dysfunction after sustaining this injury. Posttraumatic osteoarthritis of the sacroiliac joints may occur, but is less common in this type of injury. Chronic low back pain, gait abnormalities, and quadriceps weakness are not typically seen with this type of injury.
+
+- Id: Trauma 27
+  Code: SAE12TR.75
+  QID: 8214
+
+  Question: >
+    What is the most appropriate management at this time?
+    The figures are the CT scans and radiographs of a 56-year-old man who is a restrained driver involved in a motor vehicle accident in which his car is struck at 35 mph. He has pain to the right buttock and groin regions. Examination reveals that he is neurologically intact and has no evidence of other injuries. 
+    What is the most appropriate management at this time?
+
+  Figures:
+    - 8214_A.jpg
+    - 8214_B.jpg
+    - 8214_C.jpg
+    - 8214_D.jpg
+    - 8214_E.jpg
+
+  MultipleChoice:
+    Correct: Immediate mobilization and weight bearing as tolerated on the right lower extremity
+    Incorrect:
+      - Anterior pelvic external fixation
+      - Iliosacral screw fixation on the right side
+      - Open reduction and internal fixation of the sacrum
+      - Bed rest for 1 to 2 weeks, followed by non-weight-bearing on the right side for 4 weeks
+
+  CorrectAnswers:
+    - weight-bearing as tolerated
+  IncorrectAnswers:
+    - partial weight bearing
+    - non weight bearing
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The patient has a lateral compression-type pelvic fracture with an incomplete fracture of the sacrum. This is a stable pattern that will tolerate immediate weight bearing with little risk of displacement. Anterior pelvic external fixation is occasionally indicated for a lateral compression-type pelvic fracture to reduce a severe internal rotation deformity, but that is not present in this patient. Iliosacral screw fixation may be indicated if the patient has pain that prevents mobilization with this injury or in the case of a sacral fracture that is complete or comminuted, which can indicate a higher risk of displacement.
+
+- Id: Trauma 28
+  Code: SAE09TR.60
+  QID: 6948
+
+  Question: >
+    Compared to normal healthy controls, what do these patients have a higher incidence of?
+    A 28-year-old female firefighter fell from the top of a three-story building in the line of duty.  She sustained a displaced pelvic fracture with more than 5 mm displacement.  
+    Compared to normal healthy controls, what do these patients have a higher incidence of?
+
+  MultipleChoice:
+    Correct: Sexual dysfunction (dyspareunia) and caesarean section childbirth
+    Incorrect:
+      - Normal sexual function and normal vaginal childbirth
+      - Sexual dysfunction (dyspareunia) and normal vaginal childbirth
+      - Normal sexual function and caesarean section childbirth
+      - Normal sexual function and caesarean section childbirth until hardware removal
+
+  CorrectAnswers:
+    - dyspareunia
+    - sexual dysfunction
+    - caesarean section for childbirth
+    - C-section for childbirth
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Pelvic trauma in women has been shown to increase the risk of sexual dysfunction and dyspareunia. Additionally, caesarean section childbirth is almost universal following pelvic trauma regardless of whether anterior pelvic hardware is present or not.
+
+- Id: Trauma 29
+  Code: SAE08OS.67
+  QID: 6429
+
+  Question: >
+    When compared to pins in position A, why may the pins in position B be more advantageous?
+    A patient has a vertically and rotationally unstable hemipelvis following a motor vehicle accident.  An indication for application of an anterior resuscitative pelvic external fixator is made.  Two options with regard to pin insertion location are considered as seen in the figure.  
+    When compared to pins in position A, why may the pins in position B be more advantageous?
+
+  Figures:
+    - 6429_A.jpg
+
+  MultipleChoice:
+    Correct: Superior bone purchase
+    Incorrect:
+      - There is less risk to regional neurologic structures
+      - They more definitively stabilize the posterior fracture
+      - They may be more easily applied in the emergency department setting
+      - There is less risk of intra-articular hip joint penetration
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - weaker
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Pelvic external fixation can be used for the acute resuscitation of patients with pelvic fractures and for definitive treatment of certain injury patterns. Typically frames are constructed with anterosuperior half-pin placement within the iliac crest. Intracortical placement of these pins may be difficult and erroneous placement may render purchase inadequate. Recently, external fixation of the pelvic ring with half-pin placement into the dense supra-acetabular bone in the region of the anterior inferior iliac spine has gained popularity. Kim and associates, in a biomechanical model, demonstrated that anterior-inferior pin placement was biomechanically superior to conventional anterior-superior pin placement in rotationally and vertically unstable fracture patterns. Haidukewych and associates performed a cadaveric study that demonstrated the lateral femoral cutaneous nerve is at risk within a mean distance of 10 mm from the inferior half-pin site but the femoral nerve and femoral artery are not at risk. The average superior extent of the hip capsule was 16 mm above the joint. They suggested that these pins be inserted at least 2 cm above the hip to avoid potential hip capsule penetration. Poelstra and Kahler described a case during which the lower pins were inserted without the benefit of imaging using only palpable landmarks. However, this technique is better reserved for nonresusitative purposes permitting the use of multiplanar fluoroscopic imaging. Image guidance better ensures proper pin placement within the pelvic cortices, minimizing penetration of the hip joint and sciatic notch. No anterior external fixator, regardless of design or region of application, offers sufficient posterior stability to serve as definitive treatment for vertically unstable pelvic fracture variants.
+
+- Id: Trauma 30
+  Code: SAE08OS.13
+  QID: 6375
+
+  Question: >
+    Which lower extremity amputation requires a soft-tissue balancing procedure to prevent deformity following amputation?
+
+  MultipleChoice:
+    Correct: Lisfranc
+    Incorrect:
+      - Gritti-Stokes
+      - Transtibial
+      - Transmetatarsal
+      - Knee disarticulation
+
+  CorrectAnswers:
+    - lisfranc amputation
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    The Lisfranc level amputation removes the attachment of the peroneus brevis (base of the fifth metatarsal) and the peroneus longus (base of the first metatarsal), creating a varus deformity due to unopposed overpull by the tibialis anterior and posterior muscles. An anterior tibialis tendon transfer may be necessary. Other possible tissue balancing choices include posterior tibialis transfer and lengthening of the gastrocsoleus complex. Another option is to leave the base of the fifth metatarsal attached to preserve the eversion pull of the peroneus brevis. All the other amputations do not require soft-tissue balancing procedures to prevent deformities. However, adherence to the prescribed surgical techniques for reattachment of major muscle groups is important for optimizing limb strength and function.

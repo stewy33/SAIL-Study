@@ -1,0 +1,159 @@
+- Id: Demo 1
+  Code: SAE13PE.87
+  QID: 8549
+  Tag: Pediatrics
+
+  Question: >
+    What is the recommended course of action?
+    The figure is the pelvic radiograph of a newborn, who had stiff bilateral talipes equinovarus and flexion contractures of both wrists with ulnar deviation. The Ortolani test result is negative in both hips. The newborn is to remain in the neonatal unit to address feeding issues for 1 to 2 weeks. 
+    What is the recommended course of action?
+
+  Figures:
+    - 8549_A.jpg
+
+  MultipleChoice:
+    Correct: No treatment or imaging of the hips for several months
+    Incorrect:
+      - A rigid abduction brace
+      - A Pavlik harness
+      - CT scan of the pelvis
+
+  CorrectAnswers:
+    - Do nothing for several months
+    - Observe for several months
+    - No treatment for 12 weeks
+  IncorrectAnswers:
+    - Imaging
+    - Do something immediately
+    - Treatment in 2 weeks
+    - No treatment for 4 weeks
+    - Do nothing for 4 weeks
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    This child has a syndrome of multiple deformities, most likely amyoplasia. The right hip shows a teratologic dislocation with suggestion of pseudoacetabulum formation. It is appropriate to proceed with treatment of the foot and hand deformities and plan for open reduction of the hip at 6 months of age or older. Harness or brace treatment is unlikely to succeed in this high-riding teratologic dislocation. A CT scan performed during the neonatal period would not be helpful.
+
+- Id: Demo 2
+  Code: SAE09FA.64
+  QID: 6752
+  Tag: Trauma
+
+  Question: >
+    What do you tell the patient about the likelihood of infection, if a formal open reduction and internal fixation via a lateral approach is performed?
+    The figures show a clinical photograph and radiographs of a patient who sustained an open calcaneus fracture in a motor vehicle accident. The patient received immediate IV antibiotics, as well as an emergent irrigation and debridement. The swelling has subsided by 3 weeks, and the medial wound is clean. 
+    What do you tell the patient about the likelihood of infection, if a formal open reduction and internal fixation via a lateral approach is performed?
+
+  Figures:
+    - 6752_A.jpg
+    - 6752_B.jpg
+
+  MultipleChoice:
+    Correct: There is no significant difference between the infection rate for this fracture and a similar closed fracture
+    Incorrect:
+      - Due to the risk of infection, open reduction and internal fixation is not recommended for this fracture
+      - The infection rate is three to five times more likely with this fracture
+      - Due to the risk of infection from a lateral approach, treatment is confined to limited internal fixation or an external fixator
+      - The patient will need to undergo 3 weeks of IV antibiotics at home
+
+  CorrectAnswers:
+    - No difference compared to compared to the same surgery done for closed fracture
+    - No difference
+    - The likelihood of infection is no higher
+  IncorrectAnswers:
+    - There is a significant difference between the infection rate for this fracture and a similar closed fracture
+    - The risk is greater
+    - The likelihood of infection is a lot less
+
+  Keywords: []
+  KeywordsOnly: false
+
+  Explanation: >
+    Multiple authors have shown similar infection rates for grade 1 and 2 open medial fractures and closed fractures that have been treated with an extensile lateral approach and open reduction and internal fixation. Patients only need IV antibiotics for 2 to 3 days after surgery. Formal open reduction and internal fixation is not recommended for grade 3 medial wounds and most lateral wounds.
+
+- Id: Demo 3
+  Code: SAE13PE.12
+  QID: 8464
+  Tag: Pediatrics
+
+  Question: >
+    The figure is the radiograph of a 3-year-old who has deformity of the first ray of the right foot.  
+    What is the most appropriate recommendation at this time?
+
+  Figures:
+    - 8464_A.jpg
+
+  MultipleChoice:
+    Correct: Excision of the abnormal structure
+    Incorrect:
+      - Observation
+      - Ray resection
+      - Lengthening of the metatarsal with external fixation
+    
+  CorrectAnswers:
+    - Remove the deformity
+
+  Explanation: >
+    The oblique radiograph shows a well-formed congenital longitudinal epiphyseal bracket.  Excision of the bracket leads to decreased deformity and improves the potential for longitudinal growth.  Observation alone will lead to the relative shortening of the first metatarsal and medial deviation of the hallux.  Metatarsal lengthening can be considered if resection does not lead to sufficient growth.  Ray resection is not necessary.
+  
+- Id: Demo 4
+  Code: SAE10PE.38
+  QID: 6726
+
+  Question: >
+    The figures show the radiographs of a 14-year-old boy who sustained a twisting injury to his ankle.  
+    If attempted closed reduction is unsuccessful, what is the primary reason to proceed with surgical treatment?
+  
+  Figures:
+    - 6726_A.jpg
+    - 6726_B.jpg
+
+  MultipleChoice:
+    Correct: Decreased risk of posttraumatic arthritis
+    Incorrect:
+      - Avoid growth arrest
+      - Minimize risk of osteonecrosis
+      - Prevent clinical internal rotation deformity
+      - Prevent development of a late tarsal tunnel syndrome
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false   
+
+  Explanation: >
+    Triplane fractures generally occur in children who are near skeletal maturity.  The injury is generally caused by a supination external rotation mechanism.  The number of fracture fragments present (two or three) depends on what part of the physes is closed at the time of injury.  Articular congruity is the major concern in the management of these injuries since the patient has almost reached skeletal maturity.  The goal is to restore articular congruity to minimize the development of posttraumatic arthritis.
+
+- Id: Demo 5
+  Code: SAE07HK.49
+  QID: 6009
+
+  Question: >
+    What is the highest level of activity that would be safely permitted in the immediate postoperative period?
+    The figure shows the postoperative radiograph of a 36-year-old patient.  The cerclage cable was placed for a minimal medial calcar fracture seen during femoral preparation.  
+    What is the highest level of activity that would be safely permitted in the immediate postoperative period?
+
+  Figures:
+    - 6009_A.jpg
+
+  MultipleChoice:
+    Correct: Immediate full weight bearing
+    Incorrect:
+      - Protected weight bearing
+      - Toe touch weight bearing
+      - Non-weight-bearing
+      - 50% weight bearing
+
+  CorrectAnswers:
+    - weight bearing as tolerated
+    - ambulate without restrictions
+  IncorrectAnswers: 
+    - partial weight bearing
+
+  Keywords: []
+  KeywordsOnly: false     
+
+  Explanation: >
+    The incidence of femoral fracture in primary cementless total hip arthroplasty ranges from 1.5% to 27.8%. It is imperative that the implant and fracture are stable both intraoperatively and postoperatively. Cerclage wiring or cerclage cabling is the current recommended treatment for nondisplaced calcar fractures and minimally displaced proximal fractures. Berend and associates reviewed the results of 58 total hips in 55 patients with intraoperative calcar fracture managed with single or multiple cerclage wires or cables and immediate full weight bearing. Follow-up averaged 7.5 years, and there were no revisions of the femoral component. No patients had severe thigh pain.

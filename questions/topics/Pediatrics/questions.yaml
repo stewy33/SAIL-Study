@@ -1,0 +1,855 @@
+- Id: Pediatrics 1
+  Code: SAE11OS.50
+  QID: 7638
+
+  Question: >
+    <speak>
+    What is the most appropriate management?
+    A 7-year-old child has shoulder pain after falling off a swing.  Radiographs reveal a Salter II fracture with displacement of over two thirds the width of the shaft (Neer-Horowitz <sub alias="four">IV</sub>).  
+    What is the most appropriate management?
+    </speak>
+    
+  MultipleChoice:
+    Correct: Sling, graduated physiotherapy, and close monitoring
+    Incorrect:
+      - Closed reduction and pinning
+      - Open reduction and internal fixation with plates
+      - Open reduction and internal fixation with flexible nails
+      - Open reduction and internal fixation and removal of the interposed periosteum followed by pin fixation
+  
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: [[sling]]
+  KeywordsOnly: false
+
+  Explanation: >
+    Proximal humeral fractures in children are most often treated nonsurgically, even with displaced patterns.  Therefore, treatments that include closed or open reduction are not indicated.  There is little controversy in the treatment of proximal humerus fractures in this age group and most patients attain good functional outcomes.  The humerus contributes about 80% of the growth of the humerus and has excellent remodeling potential.  Some reports indicate higher complication rates when surgically treated.
+
+- Id: Pediatrics 2
+  Code: SAE13PE.18
+  QID: 8473
+
+  Question: >
+    What would be the effect of adding a third pin from the lateral side?
+    A displaced pediatric supracondylar humerus fracture is treated with closed manipulation and placement of 2 Kirschner wires placed from the lateral side.  
+    What would be the effect of adding a third pin from the lateral side?
+    
+  MultipleChoice:
+    Correct: Improve construct stiffness in the presence of medial column comminution
+    Incorrect:
+      - Increase risk for iatrogenic ulnar nerve injury
+      - Provide more construct stiffness than adding a medial pin
+      - Will not affect construct stiffness in the presence of residual distal fragment internal rotation
+ 
+  CorrectAnswers:
+    - improve construct stiffness in the presence of internal rotation of distal fragment
+    - stiffer construct
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false  
+
+  Explanation: >
+    Multiple biomechanical studies have shown that the addition of a third pin from the lateral side improves construct stiffness in the presence of medial column loss or slight internal rotation of the distal fragment. The same studies show that addition of a medial pin (cross pinning) has essentially the same benefit. Placement of a medial pin increases risk for iatrogenic nerve injury.
+
+- Id: Pediatrics 3
+  Code: SAE13PE.115
+  QID: 8459
+
+  Question: >
+    What is the best description of this fracture?
+    
+  Figures:
+    - 8459_A.jpg
+    - 8459_B.jpg
+
+  MultipleChoice:
+    Correct: Gartland type III supracondylar humerus fracture
+    Incorrect:
+      - Gartland type I supracondylar humerus fracture
+      - Gartland type II supracondylar humerus fracture
+      - Flexion-type supracondylar humerus fracture
+  
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: [[III,"3",three], [Gartland]]
+  KeywordsOnly: false
+
+  Explanation: >
+    The radiographs show a Gartland type III supracondylar humerus fracture.  Although multiple classification systems exist that describe supracondylar humerus fractures, Gartland's classification is simple and widely used.  Type I fractures are nondisplaced according to this classification.  Type II fractures are displaced with a variable amount of angulation, but the posterior cortex of the humerus is intact.  Type III fractures are completely displaced with no cortical contact.  In flexion-type supracondylar humerus fractures, the distal fragments are anterior to the humeral shaft.  The most appropriate treatment method for this fracture is attempted closed reduction and pin fixation.  Closed reduction and casting is inappropriate for a Gartland type III supracondylar humerus fracture.  Although open reduction may be required in some cases, most supracondylar humerus fractures, even those that are severely displaced, can be treated with closed reduction and percutaneous pin fixation (and this should be the initial approach).  Although olecranon traction is an option in managing these fractures, it involves repeated radiographs and prolonged hospitalization and is not widely used in North America.  The preoperative examination is consistent with a radial nerve injury.  Neuropraxias are common in supracondylar humerus fractures, with anterior interosseous nerve injury being the most common, followed by radial nerve.  Ulnar nerve injuries occur in flexion-type supracondylar fractures and occasionally as the result of medial pin placement during surgery. The recurrent motor branch of the median nerve supplies the thenar muscles.
+
+- Id: Pediatrics 4
+  Code: SAE13PE.119
+  QID: 8463
+
+  Question: >
+    <speak>
+    What structure is most at risk during the surgical repair of this lesion?
+    The figures are the anteroposterior (<say-as interpret-as="characters">AP</say-as>) and lateral radiographs of a 15-year-old boy who sustained an injury to his elbow after a fall while skateboarding.  
+    What structure is most at risk during the surgical repair of this lesion?
+    </speak>
+
+  Figures:
+    - 8463_A.jpg
+    - 8463_B.jpg
+
+  MultipleChoice:
+    Correct: Ulnar nerve
+    Incorrect:
+      - Median nerve
+      - Brachial artery
+      - Ulnar collateral ligament
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - radial nerve
+
+  Keywords: [[ulnar],[nerve]]
+  KeywordsOnly: false  
+
+  Explanation: >
+    The structure most at risk at the time of surgical repair is the ulnar nerve. The lateral radiograph shows a bony structure in the joint space that represents the medial epicondyle, which is absent from its usual location on the AP radiograph. The median nerve and the brachial artery should be well away from the surgical field. The ulnar collateral ligament is often attached directly to the medial epicondyle.
+
+- Id: Pediatrics 5
+  Code: SAE13PE.17
+  QID: 8472
+
+  Question: >
+    <speak>
+    At this current follow-up visit, what treatment recommendation is most appropriate? <break time="0.5s"/>
+    A 15-year-old boy fell from a tree and sustained the injury shown in Figures A and B. <break time="0.5s"/>
+    He was treated with closed manipulation and splinting. <break time="0.5s"/>
+    His radiographs after manipulation are shown in Figures C and D. <break time="0.5s"/>
+    His follow-up radiographs, taken 1 week later, are shown in Figures E and F. <break time="0.5s"/> 
+    At this current follow-up visit, what treatment recommendation is most appropriate? 
+    </speak>
+
+  Figures:
+    - 8472_A.jpg
+    - 8472_B.jpg
+    - 8472_C.jpg
+    - 8472_D.jpg
+    - 8472_E.jpg
+    - 8472_F.jpg
+
+  MultipleChoice:
+    Correct: Open reduction and internal fixation of the radius fracture under general anesthesia
+    Incorrect:
+      - Acceptance of the current deformity, with the expectation that his bone will remodel
+      - Remanipulation and splinting of the fractures using a hematoma block in the office
+      - Remanipuation and casting in the operating room under general anesthesia
+  
+  CorrectAnswers: 
+    - ORIF
+  IncorrectAnswers:
+    - closed reduction
+    - non-op
+    - nonoperative management
+
+  Keywords: []
+  KeywordsOnly: false 
+
+  Explanation: >
+    The radiographs show a distal radial shaft fracture.  The distal radial physis appears to be nearly or completely closed, so significant remodeling of the residual bayonette apposition should not be expected.  The patient has already attempted manipulation, whether in an office setting or under general anesthesia, so they are unlikely to maintain an adequate reduction.  In this age group, treatment of radial shaft fractures with internal fixation provides the most definitive outcome, posing the least risk for repeat surgery, and allows early rehabilitation.
+
+- Id: Pediatrics 6
+  Code: SAE10PE.37
+  QID: 7225
+
+  Question: >
+    When addressing a proximal intertrochanteric or subtrochanteric fracture in a juvenile with open growth plates, the arterial supply from what artery at the neck must be preserved?
+
+  MultipleChoice:
+    Correct: Medial femoral circumflex
+    Incorrect:
+      - Lateral femoral circumflex
+      - Superior gluteal
+      - Inferior gluteal
+      - Obturator
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: [[medial],[femoral],[circumflex]]
+  KeywordsOnly: false  
+
+  Explanation: >
+    The medial femoral circumflex artery supplies blood to the femoral head. Its position along the posterior-superior femoral neck places this structure at risk with intramedullary nailing of the femur. Therefore, lateral entry through the greater trochanter is preferred when intramedullary fixation is performed.
+
+- Id: Pediatrics 7
+  Code: OBQ14.38
+  QID: 5448
+  Tag: Spine 1
+
+  Question: >
+    What does this technique allow for?
+    A 16-year-old female with adolescent idiopathic scoliosis undergoes posterior spinal fusion with instrumentation. The thoracic pedicle screws were placed using a tap 1 mm smaller than the screw diameter and a straightforward trajectory that runs parallel to the superior endplate. 
+    What does this technique allow for?
+
+  MultipleChoice:
+    Correct: Increased maximal insertional torque
+    Incorrect:
+      - Anatomic placement of the screws
+      - Increased depth insertion of the screws
+      - Decreased resistance to screw pullout
+      - Decreased stability of the construct
+
+  CorrectAnswers:
+    - increases resistance to screw pullout
+    - lower risk of screw pullout
+  IncorrectAnswers: []
+
+
+  Keywords: []
+  KeywordsOnly: false  
+
+  Explanation: >
+    Straightforward trajectory when placing pedicle screws in addition to prior tapping 1mm smaller than the screw diameter increase the maximal insertional torque and resistance to screw pullout.
+    Contemporary segmental pedicle screw placement used in the treatment of scoliosis deformity offer significantly higher screw pullout and deformity correction than prior hook and wire constructs. Additionally, screw insertional torque has been found in numerous studies to correlate with resistance to screw pullout. Several factors have been found to increase maximum screw insertional torque, including tapping 1mm smaller than the screw diameter and using the straightforward trajectory. It is important to note that while undertapping makes for a stronger screw, there are some studies that suggest not tapping at all makes for an even stronger screw.
+    Lehman et al. performed a biomechanical study evaluating maximum insertional torque when tapping line to line, undertapping by 0.5mm, and undertapping by 1mm in 34 fresh frozen cadavers. They found undertapping the thoracic pedicle by 1mm increased maximum insertional torque by 47% when compared to undertapping by 0.5mm and by 93% when compared to line to line tapping.
+    Kuklo et al. performed a biomechanical study on thirty cadavers using the straightforward technique (sagittal trajectory of the screws parallels the superior endplate of the vertebral body) versus anatomic trajectory (22 degrees in the cephalo-caudad direction in the sagittal plane). They found maximum insertional torque to be 2.58 pounds using the straightforward technique versus 1.86 pounds using the anatomic trajectory (p=0.0005).
+
+- Id: Pediatrics 8
+  Code: SAE07PE.37
+  QID: 6097
+  Tag: Spine 2
+
+  Question: >
+    What is the next most appropriate step in management?
+    A 6-year-old girl has a painless spinal deformity. Examination reveals 2+ and equal knee jerks and ankle jerks, negative clonus, and a negative Babinski. The straight leg raising test is negative. Abdominal reflexes are asymmetrical. PA and lateral radiographs are shown in the figures. 
+    What is the next most appropriate step in management?
+
+  Figures:
+    - 6097_A.jpg
+    - 6097_B.jpg
+
+  MultipleChoice:
+    Correct: MRI of the spinal axis
+    Incorrect:
+      - Physical therapy
+      - A brace for scoliosis
+      - Observation, with reevaluation in 6 to 12 months
+      - Posterior spinal fusion from T6 to T12
+  
+  CorrectAnswers:
+    - MRI of the whole spine
+    - MRI of the spine
+  IncorrectAnswers:
+    - MRI of the thoracic spine
+    - MRI of the cervical spine
+    - MRI of the lumbar spine
+
+  Keywords: []
+  KeywordsOnly: false   
+
+  Explanation: >
+    The patient has an abnormal neurologic exam as shown by the abnormal abdominal reflexes. Furthermore, she has a significant curve and is younger than age 10 years. These findings are not consistent with idiopathic scoliosis. MRI will best rule out syringomyelia or an intraspinal tumor. Bracing and surgery are not indicated for this small curvature prior to obtaining an MRI scan.
+
+- Id: Pediatrics 9
+  Code: SAE10PE.82
+  QID: 7270
+  Tag: Spine 3
+
+  Question: >
+    In infantile idiopathic scoliosis, what factor suggests progression?
+
+  MultipleChoice:
+    Correct: Rib overlap of the apical vertebra
+    Incorrect:
+      - Age at presentation
+      - Rib vertebral angle difference of greater then 10 degrees
+      - Male gender
+      - Family history
+
+  CorrectAnswers:
+    - rib vertebral angle difference greater than 20 degrees
+    - RVAD > 20 degrees
+  IncorrectAnswers:
+    - rib vertebral angle difference greater than 15 degrees
+    - Cobb angle
+
+  Keywords: []
+  KeywordsOnly: false   
+
+  Explanation: >
+    Infantile idiopathic scoliosis occurs more commonly in boys, with a 3 to 1 male to female ratio. Neural axis abnormalities, hip dysplasia, and congenital heart disease are all associated with the condition; spontaneous correction frequently occurs. Curve progression can be predicted by the rib vertebral angle difference or the phase of the rib head. Rib overlap of the apical vertebral body or a rib vertebral angle difference of greater than 20 degrees indicates that the curve is likely to progress. Gender, family history, and age at presentation have not been found to be risk factors for progression.
+
+- Id: Pediatrics 10
+  Code: SAE10PE.38
+  QID: 6726
+
+  Question: >
+    The figures show the radiographs of a 14-year-old boy who sustained a twisting injury to his ankle.  
+    If attempted closed reduction is unsuccessful, what is the primary reason to proceed with surgical treatment?
+  
+  Figures:
+    - 6726_A.jpg
+    - 6726_B.jpg
+
+  MultipleChoice:
+    Correct: Decreased risk of posttraumatic arthritis
+    Incorrect:
+      - Avoid growth arrest
+      - Minimize risk of osteonecrosis
+      - Prevent clinical internal rotation deformity
+      - Prevent development of a late tarsal tunnel syndrome
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false   
+
+  Explanation: >
+    Triplane fractures generally occur in children who are near skeletal maturity.  The injury is generally caused by a supination external rotation mechanism.  The number of fracture fragments present (two or three) depends on what part of the physes is closed at the time of injury.  Articular congruity is the major concern in the management of these injuries since the patient has almost reached skeletal maturity.  The goal is to restore articular congruity to minimize the development of posttraumatic arthritis.
+
+- Id: Pediatrics 11
+  Code: SAE08OS.71
+  QID: 6433
+
+  Question: >
+    <speak>
+    In a child with acute hematogenous osteomyelitis (<say-as interpret-as="characters">AHO</say-as>), what test is most likely to be abnormal?
+    </speak>
+
+  MultipleChoice:
+    Correct: C-reactive protein
+    Incorrect:
+      - WBC Count
+      - Blood culture
+      - Bone culture
+      - Thyroid function test
+
+  CorrectAnswers:
+    - CRP
+  IncorrectAnswers:
+    - temperature
+
+  Keywords: []
+  KeywordsOnly: false   
+  
+  Explanation: >
+    Acute hematogenous osteomyelitis (AHO) affects 1 in 5,000 children and historically (prior to antibiotics) nearly half died due to the disease. Fortunately, the mortality rate is much lower today (less than 1%), but prompt diagnosis and treatment is critical to decrease the morbidity of this disease. Often many of the laboratory values may not be elevated, and cultures may not be positive; in fact, the WBC count and cultures (even bone) are positive less than half the time. The erythrocyte sedimentation rate is positive over 90% of the time, and often highly elevated but does not peak for 3 to 5 days. The C-reactive protein is elevated in 98% of patients with AHO, and decreases quickly after appropriate antibiotic therapy. The differential diagnosis of AHO is long, and includes bony tumors and leukemia, which should be considered, especially if the child fails to respond to appropriate treatment.
+
+- Id: Pediatrics 12
+  Code: SAE13PE.81
+  QID: 8543
+
+  Question: >
+    What is the diagnosis?  
+    The figures are the anteroposterior radiograph of the spine and neck and the 3-dimensional reconstruction of the shoulders and spine of a 6-year-old girl. The child’s parent reported that she cannot keep up with her peers. She has difficulty with monkey bars and any activities that required her to raise her arms above her shoulder. Her neck is short, broad, and tilted. 
+    What is the diagnosis?  
+
+  Figures:
+    - 8543_A.jpg
+    - 8543_B.jpg
+
+  MultipleChoice:
+    Correct: Sprengel's deformity
+    Incorrect:
+      - Facial scapular humeral dystrophy
+      - Turner syndrome
+      - Congenital muscular torticollis
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false   
+    
+  Explanation: >
+    Sprengel's deformity or congenital elevation of the scapula is the result of failure of caudal migration of the scapula.  Approximately 30% of patients with this condition have an omovertebral bone as seen in the figures.  In this patient the deformity is bilateral.  Bilateral deformities occur in 10% to 30% of these cases.  Cartilage, fibrous tissue or bone (the omovertebral bone) may attach the scapula to the cervical and thoracic spine.  The latter limits shoulder abduction to 90 degrees.  Cosmetically, the neck is broad and webbed similar to the condition seen in Turner syndrome.  Sprengel's deformity is found in 35% of patients with Klippel-Feil syndrome.  Facial scapular humeral dystrophy does not entail an omoverterbral bone as noted on this patient's CT scan.
+
+- Id: Pediatrics 13
+  Code: SAE13PE.11
+  QID: 8453
+
+  Question: >
+    What is the recommended treatment?  
+    The figure is the radiograph of a 9-year-old African-American boy with left-sided groin and knee pain.  His body mass index is 42, and he has had symptoms for 10 days.  
+    What is the recommended treatment?  
+
+  Figures:
+    - 8453_A.jpg
+
+  MultipleChoice:
+    Correct: Percutaneous screw fixation of both hips
+    Incorrect:
+      - Physical therapy and a return visit in 6 weeks
+      - Crutches and toe-touch weight bearing for 6 weeks
+      - Open hip dislocation and a modified Dunn procedure
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - open reduction and internal fixation of hip
+    - ORIF of hip
+    - closed reduction of hip
+
+  Keywords: [[both, bilateral]]
+  KeywordsOnly: false   
+      
+  Explanation: >
+    This patient is young, obese, and African American. His risk of slip on the right is at least 50%. The radiograph shows a grade 1 slip on the left and an open triradiate cartilage. Recommendations for this patient should include fixation of both hips because risk for problems after a slip of the opposite side is higher than risk for prophylactic fixation. Physical therapy may make the condition worse. Toe-touch weight bearing would only delay needed treatment. The left hip should be treated and the family may elect to only treat the left hip, but recommendations should be given to treat both hips. Open-hip dislocation is not indicated in this mild slipped capital femoral epiphysis.
+
+- Id: Pediatrics 14
+  Code: SAE10PE.87
+  QID: 7275
+
+  Question: >
+    What is the most appropriate treatment?
+    A 12-year-old boy has had left thigh pain for the past 4 months.  Examination shows lack of internal rotation and abduction, and external rotation with hip flexion.  A radiograph is shown.  
+    What is the most appropriate treatment?
+
+  Figures:
+    - 7275_A.jpg
+
+  MultipleChoice:
+    Correct: In situ pinning
+    Incorrect:
+      - Physical therapy
+      - Reduction and percutaneous pinning
+      - Surgical dislocation of the hip with reduction under direct vision
+      - Spica casting
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - both hips
+    - bilateral hips
+
+  Keywords: []
+  KeywordsOnly: false   
+    
+  Explanation: >
+    The patient has a stable slipped capital femoral epiphysis (SCFE).  Preferred treatment of stable SCFE is in situ pinning.  In situ fixation of stable SCFE has an extremely low rate of osteonecrosis. Gentle postural reduction with hip capsulotomy or surgical dislocation of the hip with reduction has been advocated for unstable SCFE.
+
+- Id: Pediatrics 15
+  Code: SAE10PE.46
+  QID: 7234
+
+  Question: >
+    What is the most appropriate management?
+    A 12-year-old boy reports a 6-week history of left hip pain.  He denies any history of trauma or fever. Examination reveals diminished internal rotation of both hips and discomfort with this manuever. Radiographs are shown.  
+    What is the most appropriate management?
+
+  Figures:
+    - 7234_A.jpg
+    - 7234_B.jpg
+
+  MultipleChoice:
+    Correct: In situ pinning of bilateral hips
+    Incorrect:
+      - Surgical in situ pinning of the left hip
+      - Surgical dislocation with reduction of the left slipped capital femoral epiphysis
+      - Bed rest
+      - Application of a hip spica cast
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - ORIF of hip
+    - open reduction and internal fixation of hip
+    - closed reduction of hip
+
+  Keywords: []
+  KeywordsOnly: false   
+      
+  Explanation: >
+    The patient has left hip pain and clinical and radiographic evidence of a left slipped capital femoral epiphysis. He also has open triradiate cartilage and a grade 1 slip on the right side that, at the present time, is silent. The best treatment is pinning of bilateral slipped capital femoral epiphysis. Reduction is not indicated because of the mild nature of both slips. Although prophylactic pinning of the uninvolved contralateral hip is controversial, this patient shows a clinically silent grade 1 slip on the right side.
+
+- Id: Pediatrics 16
+  Code: SAE11OS.149
+  QID: 7737
+
+  Question: >
+    A 3-year-old child has the deformity seen in the figures. In discussing the condition with the family, it is important to inform them that this problem is associated with what?
+
+  Figures:
+    - 7737_A.jpg
+    - 7737_B.jpg
+
+  MultipleChoice:
+    Correct: Limb-length discrepancy
+    Incorrect:
+      - Neurofibromatosis
+      - Osteogenesis imperfecta
+      - Congenital pseudarthrosis
+      - Renal anomalies
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false   
+      
+  Explanation: >
+    The radiographs demonstrate congenital posterior medial bow of the tibia. It is associated with limb-length discrepancy in the older child and calcaneovalgus foot in the newborn. The bowing slowly diminishes, although a considerable limb-length discrepancy can develop (3-8 cm). It is important to differentiate this condition from anterior lateral bow of the tibia, which is associated with congenital pseudarthrosis of the tibia and neurofibromatosis. Osteogenesis imperfecta can present with various long-bone deformities secondary to fracture, but the bone quality in the figure appears normal. Renal anomalies are not associated with posterior medial or anterior lateral bow of the tibia.
+
+- Id: Pediatrics 17
+  Code: SAE13PE.93
+  QID: 8556
+
+  Question: >
+    The figure is the radiograph of 3-and-a-half-year-old girl who was evaluated for a progressive increase in tibia vara and complains that her feet are turning in.  
+    What is the most appropriate course of action?
+
+  Figures:
+    - 8556_A.jpg
+
+  MultipleChoice:
+    Correct: Bilateral tibia and fibular osteotomies
+    Incorrect:
+      - Valgus positioning knee-ankle-foot orthosis (KAFO)
+      - Use of a Denis-Browne bar
+      - Schedule a return visit in 4 months
+  
+  Explanation: >
+    The radiograph shows advanced changes in the medial tibial growth plates.  The metaphyseal-diaphyseal angle is more than 20 degrees.  With these advanced changes, an osteotomy is indicated.  Waiting will allow the problem to increase.  Bracing (KAFO or night bar) has not been shown effective in advanced Blount disease.
+
+- Id: Pediatrics 18
+  Code: OBQ15.210
+  QID: 5895
+
+  Question: >
+    A 2-year and 4-month old female presents for parental concern over "bowed legs." The mother believes it has become progressively worse over time, but this is the first time she is seeking attention for it. Lower extremity standing radiograph is shown in Figure A.
+    What is the next best step in treatment?
+  
+  Figures:
+    - 5895_A.jpg
+
+  MultipleChoice:
+    Correct: Valgus producing knee-ankle-foot orthosis
+    Incorrect:
+      - Reassurance that alignment is within normal parameters for age
+      - Proximal tibia lateral hemiepiphyseodesis
+      - Distal femur lateral hemiepiphyseodesis
+      - Valgus producing proximal tibia osteotomy
+  
+  Explanation: >
+    The child has infantile tibia vara, also called Blount's disease. The radiograph shows sloping of the medial metaphysis and irregularity of the epiphysis. The most appropriate treatment in a child who is younger than age 4 years, with progressive varus, and who has the radiographic findings described above is tibia and fibula osteotomy. Although the natural history of Blount's disease is not known with certainty, some studies predict that patients who have more advanced radiographic changes will develop progressive genu varum. Observation may be useful in young infants when the differentiation between infantile tibia vara and physiologic genu varum is uncertain. Although controversial, bracing may have a role in early, mild Blount's disease. Epiphysiodesis is not indicated in a 3+-year-old child. Hemi-plateau elevation may be considered in children with severe uncorrected or relapsed infantile tibia vara.
+
+- Id: Pediatrics 19
+  Code: SAE10PE.34
+  QID: 7222
+
+  Question: >
+    What is the most appropriate management?
+    A 7-year-old girl with a known diagnosis of neurofibromatosis has neck pain and deformity.  She has been wearing a soft cervical collar for the past 2 months with mild relief of her symptoms.  An MRI scan shows several small neurofibromas on the left side of the cervical spine near the foramina at C6 and 7.  A lateral cervical spine radiograph is shown.  
+    What is the most appropriate management?
+
+  Figures:
+    - 7222_A.jpg
+
+  MultipleChoice:
+    Correct: Anterior and posterior spinal fusion
+    Incorrect:
+      - Anterior spinal fusion
+      - In situ posterior fusion
+      - Halo traction correction and posterior fusion
+      - Continued soft cervical collar treatment
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: [[anterior],[posterior],[fusion]]
+  KeywordsOnly: false   
+     
+  Explanation: >
+    With a diagnosis of neurofibromatosis and severe kyphosis, anterior and posterior treatment is needed to achieve correction and fusion. In situ fusion has a high failure rate with the kyphotic deformity and even with traction, correction of the kyphosis is not expected. Anterior treatment alone may achieve correction, but in neurofibromatosis only circumferential treatment has been shown to provide long-term stability.
+
+- Id: Pediatrics 20
+  Code: SAE13PE.9
+  QID: 8552
+
+  Question: >
+    The figures are the anteroposterior and lateral tibia/fibula radiographs of a 6-month-old infant who was evaluated for a bowed leg.  
+    In addition to brace treatment, what should initial treatment include?
+
+  Figures:
+    - 8552_A.jpg
+    - 8552_B.jpg
+
+  MultipleChoice:
+    Correct: Referral to genetics to evaluate for a systemic disease
+    Incorrect:
+      - Cast immobilization in a long-leg cast for 4 to 6 weeks to heal the fracture
+      - Open reduction and fixation because of the amount of deformity
+      - Skeletal survey and referral to social services for evaluation of abuse
+  
+  Explanation: >
+    The radiographs show a severe pseudarthrosis tibia/fibula that has fractured. This is highly associated with neurofibromatosis type I, which needs to be evaluated with a genetics workup before discussing treatment. Cast immobilization is not needed if the child is not walking and not in pain. Surgical management should proceed only after the workup is complete. This is a congenital condition, not a fracture, so workup for abuse is not indicated.
+
+- Id: Pediatrics 21
+  Code: SAE07PE.88
+  QID: 6148
+
+  Question: >
+    The figure shows the radiographs of a 2-year-old boy who has a deformed leg. The patient is ambulatory and has no pain. 
+    What is the most appropriate management?
+
+  Figures:
+    - 6148_A.jpg
+
+  MultipleChoice:
+    Correct: Patellar tendon bearing (PTB) orthosis
+    Incorrect:
+      - Observation
+      - Osteotomy to correct the deformity and fixation with an intramedullary rod
+      - Vascularized fibular graft from the contralateral leg
+      - Amputation
+
+  CorrectAnswers:
+    - brace treatment
+    - orthotics
+  IncorrectAnswers:
+    - intramedullary nail
+    - ORIF
+
+  Keywords: []
+  KeywordsOnly: false   
+     
+  Explanation: >
+    The patient has a prefractured stage of congenital pseudarthrosis of the tibia and is at risk for fracture. The PTB orthosis may prevent or delay the fracture. Osteotomy is frequently complicated by nonunion. When established nonunion does not respond to intramedullary nailing and bone grafting, vascularized grafting may succeed. Amputation is a salvage procedure.
+
+- Id: Pediatrics 22
+  Code: SAE09FA.85
+  QID: 6773
+
+  Question: >
+    What outcome should the parents be advised to expect?
+    A toddler is brought in by his parents for evaluation of gait problems.  Birth history and neurologic examination are unremarkable.  After evaluating femoral torsion, tibial torsion, and foot contour, the diagnosis is excessive internal tibial torsion.  
+    What outcome should the parents be advised to expect?
+
+  MultipleChoice:
+    Correct: Resolution by age 3 or 4 years without active treatment in most patients
+    Incorrect:
+      - Resolution by age 8 or 9 years without active treatment in most patients
+      - Resolution with casting as the most effective treatment
+      - Resolution with bracing and shoe modification as the most effective treatment
+      - Resolution with surgery as the most effective treatment
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false   
+      
+  Explanation: >
+    Excessive internal tibial torsion is a common cause of intoeing in toddlers. In most children, this resolves spontaneously by 3 to 4 years of age. Intoeing in elementary age children is usually the result of excessive femoral anteversion. Studies have shown that active intervention (casting, splinting, and shoe modifications) has no demonstrable effect on the natural history or resolution of tibial torsion. Surgery is rarely indicated in adolescents with severe internal tibial torsion that has not resolved and is resulting in cosmetic and functional problems.
+
+- Id: Pediatrics 23
+  Code: SAE13PE.13
+  QID: 8468
+
+  Question: >
+    The figure is the photograph of 18-month-old triplets with a lower-limb condition. 
+    What is the best initial treatment?  
+
+  Figures:
+    - 8468_A.jpg
+
+  MultipleChoice:
+    Correct: Observation and clinical follow-up
+    Incorrect:
+      - Vitamin D supplementation and serum level monitoring
+      - Mechanical axis alignment measurements on serial standing knee radiographs
+      - Genetic testing and counseling for short-stature syndrome
+
+  CorrectAnswers:
+    - reassurance
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false   
+        
+  Explanation: >
+    These triplets exhibit genu varum and internal tibial torsion that can be part of normal development. Fetal packing is the likely major contributing cause for these triplets, however. Observation and follow-up will be sufficient. Bowing and torsion can be clinical features of vitamin D deficiency, Blount disease, and short-stature syndromes, but these are not the most likely diagnoses. Radiographic diagnosis of Blount disease may not be accurate at this age.
+
+- Id: Pediatrics 24
+  Code: SAE13PE.37
+  QID: 8494
+
+  Question: >
+    What is the etiology of the size difference between the left and right?
+    The figure is the photograph of a 10-year-old girl standing without shoes who underwent surgical correction of a left clubfoot deformity at age one. The family is concerned that her left lower extremity is smaller than the right. 
+    What is the etiology of the size difference between the left and right?
+
+  Figures:
+    - 8494_A.jpg
+    
+  MultipleChoice:
+    Correct: Intrinsic hypoplasia of the left lower extremity
+    Incorrect:
+      - Tethered cord
+      - Lumbar scoliosis
+      - Hemihypertrophy of the right lower extremity
+
+  CorrectAnswers:
+    - intrinsic hypoplasia of the left leg
+  IncorrectAnswers:
+    - intrinsic hypoplasia of the right leg
+
+  Keywords: []
+  KeywordsOnly: false  
+     
+  Explanation: >
+    Smallness of the entire lower extremity is intrinsic to clubfoot deformity. Multiple etiologies for size difference have been investigated to include vascular, neurologic, and difference in tissue type. Arterial abnormalities in clubfeet appear to produce a deletion phenomenon. Arteriography has shown that a larger percentage of clubfeet have abnormal arterial patterns, with the posterior tibial artery being the predominant vascular supply. Studies suggest that the absence of peripheral nerves or denervation decreases the rate of bone maturation, and this effect may be responsible for the diminished size of denervated limbs and may explain this phenomenon in clubfoot. However, bone age has been found to be similar in those with clubfoot and controls. Tethering of the cord has not been found to be associated with idiopathic clubfoot. The majority of clubfeet have relatively normal muscle fibers. Hemihypertrophy of the contralateral limb is not associated with clubfoot deformity.
+
+- Id: Pediatrics 25
+  Code: SAE07PE.85
+  QID: 6145
+
+  Question: >
+    An 18-month-old infant with myelomeningocele and rigid clubfeet has grade 5 quadriceps and hamstring strength, but no muscles are functioning below the knee. 
+    What is the best treatment option for the rigid clubfeet?
+
+  MultipleChoice:
+    Correct: Soft-tissue releases as necessary
+    Incorrect:
+      - Triple arthrodesis
+      - Tendon transfers to balance the feet in a neutral plantigrade position
+      - Physical therapy for range of motion and stretching
+      - Botulinum injections followed by serial casting
+
+  CorrectAnswers:
+    - soft tissue releases as needed
+  IncorrectAnswers: []
+
+  Keywords: []
+  KeywordsOnly: false   
+   
+  Explanation: >
+    This child has the potential to walk and therefore should have all the contracted structures in the feet released as necessary to place the feet in a plantigrade position for fitting of ankle-foot orthoses. Physical therapy, manipulation, and casting may provide some benefit in a newborn with flexible feet but are not effective in an older infant with rigid clubfeet. Botulinum injections and tendon transfers are of no use because there are no muscles functioning below the knee. Tendon releases are more effective than tendon transfers in children with myelomeningocele.
+
+- Id: Pediatrics 26
+  Code: SAE08AN.75
+  QID: 6235
+
+  Question: >
+    In Charcot-Marie-Tooth disease a progressive deformity develops in the foot.  Which functional muscles predominate in deformity formation?
+
+  MultipleChoice:
+    Correct: Posterior tibialis and peroneus longus
+    Incorrect:
+      - Posterior tibialis and peroneus brevis
+      - Anterior tibialis and peroneus longus
+      - Anterior tibialis and peroneus brevis
+      - Extensor digitorum and anterior tibialis
+
+  CorrectAnswers:
+      - Posterior tibialis tendon and peroneal longus
+  IncorrectAnswers: []
+
+  Keywords: [[posterior],[tibialis],[peroneal],[longus]]
+  KeywordsOnly: false   
+      
+  Explanation: >
+    In Charcot-Marie-Tooth disease, the posterior tibialis and peroneus longus tendons remain strong, serving to invert the hindfoot and depress the first metatarsal head thus causing the cavovarus foot associated with this disease. In contrast, the tibialis anterior and peroneus brevis are less functional and therefore cannot dorsiflex the ankle, elevate the first metatarsal, or evert the foot, contributing to the deformity.
+
+- Id: Pediatrics 27
+  Code: SAE13BS.28
+  QID: 8262
+
+  Question: >
+    Patients with Friedreich ataxia are most likely to have what condition?
+
+  MultipleChoice:
+    Correct: Foot deformity
+    Incorrect:
+      - Hip dysplasia
+      - Malignant hyperthermia
+      - Tibia vara
+
+  CorrectAnswers:
+    - varus heel
+    - cavus foot deformity
+    - claw toes
+  IncorrectAnswers:
+    - leg deformity
+
+  Keywords: []
+  KeywordsOnly: false   
+      
+  Explanation: >
+    Friedrich ataxia is a spinocerebellar disorder characterized by ataxic gait, areflexia, muscle weakness, loss of propioception, scoliosis, and foot deformity. Foot deformity can consist of varus heel, cavus deformity, and claw toes. Hip dysplasia can be associated with Charcot-Marie-Tooth disease, a hereditary motor sensory neuropathy. Patients with Blount disease often have progressive tibia vara and associated femoral deformity. Malignant hyperthermia has been reported in patients with myelomeningocele.
+
+- Id: Pediatrics 28
+  Code: SAE13PE.2
+  QID: 8475
+
+  Question: >
+    What gene is implicated in spinal muscular atrophy?
+
+  MultipleChoice:
+    Correct: Survival motor neuron I 
+    Incorrect:
+      - Peripheral myelin protein 22 (PMP22)
+      - Dystrophin
+      - Androgen receptor
+
+  CorrectAnswers:
+    - SMN 1
+    - SMN-1
+    - survival motor neuron 1
+  IncorrectAnswers:
+    - SMN 2
+    - SMN-2
+    - survival motor neuron II
+    - survival motor neuron 2
+
+  Keywords: []
+  KeywordsOnly: false   
+      
+  Explanation: >
+      Deletions in the SMN-I gene are found in 95% to 98% of patients with spinal muscular atrophy. Genetic testing is typically part of the diagnostic workup for spinal muscular atrophy. A positive test result is diagnostic, and, in most cases, eliminates the need for muscle biopsy. The other choices are not associated with spinal muscular atrophy. Defects in PMP22 are the cause of 70% to 80% of cases of Charcot-Marie-Tooth disease. Mutations in the dystrophin gene cause Duchenne muscular dystrophy, and mutations in the androgen receptor cause spinobulbar muscular atrophy (Kennedy's disease).
+
+- Id: Pediatrics 29
+  Code: SAE07PE.10
+  QID: 6070
+
+  Question: >
+    What study is necessary prior to any shoulder reconstruction?
+    An 18-month-old boy with obstetric brachial plexus palsy is being evaluated for limited right shoulder motion.  Physical therapy for the past 6 months has failed to result in improvement of the contracture. 
+    What study is necessary prior to any shoulder reconstruction?
+
+  MultipleChoice:
+    Correct: MRI of the shoulder joint
+    Incorrect:
+      - Electromyography
+      - MRI of the brain
+      - Radiograph of the elbow
+      - Aspiration of the right shoulder
+
+  CorrectAnswers: []
+  IncorrectAnswers:
+    - computed tomography of shoulder
+    - CT of the shoulder joint
+
+  Keywords: []
+  KeywordsOnly: false   
+      
+  Explanation: >
+    The child sustained a brachial plexus injury at birth, and internal rotation/adduction contractures frequently develop at the shoulder. Initial treatment should consist of physical therapy to increase the range of motion. If this fails, as in this patient, MRI is used to evaluate the glenohumeral joint. Commonly, there is joint deformity with increased retroversion of the glenoid and even posterior shoulder subluxation. If the deformity is mild, an anterior release, coupled with teres major and latissimus transfers, is very effective. If the deformity is severe and the shoulder is unreconstructable, then humeral derotation osteotomy is the procedure of choice. MRI of the brain, a radiograph of the elbow, and aspiration of the shoulder would not be helpful.
+
+- Id: Pediatrics 30
+  Code: SAE13PE.72
+  QID: 8533
+
+  Question: >
+    What is the most common type of skeletal dysplasia?
+
+  MultipleChoice:
+    Correct: Achondroplasia
+    Incorrect:
+      - Diastrophic dysplasia
+      - Multiple epiphyseal dysplasia
+      - Nail patella syndrome
+
+  CorrectAnswers: []
+  IncorrectAnswers: []
+
+  Keywords: [[achondroplasia]]
+  KeywordsOnly: false   
+      
+  Explanation: >
+    Achondroplasia is the most common skeletal dysplasia, with an incidence of 1/30,000 live births. The other choices are all more rare.
